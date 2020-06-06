@@ -1,105 +1,117 @@
 ,Movie_ID,Title,Year,Genre
-0,113,Dabangg 2,2012,Action/Comedy
-11,12,Thriller,2013,Milind Ukey
-12,13,Comedy,2013,Syed Noor
-13,14,Comedy,2013,Vishal Bhardwaj
-14,15,Thriller,2013,Rajeesh Kumar
-15,16,Drama,2013,Priya Krishnaswamy
-16,17,Romance/Crime,2013,Sudhir Mishra
-17,18,Action,2013,Ankush Bhatt
-18,19,Crime,2013,Aditya Om
-19,20,Action/Thriller,2013,Abbas-Mustan
-20,21,Romance,2013,Luv Ranjan
-21,22,Animation/Musical,2013,Rajiv S. Ruia
-23,24,Action,2013,Kamal Haasan
-24,25,Drama/Family,2013,Mahesh Kodiyal
-25,26,Drama,2013,Avinash Kumar Singh
-26,27,Drama/Comedy,2013,Neeraj Pandey
-27,28,"Drama/Dance
-",2013,Remo D'Souza
-28,29,Thriller,2013,Alok Shrivastava
-29,30,Comedy/Romance,2013,Vinnil Markan
-30,31,Thriller,2013,Vishesh Bhatt
-31,32,Drama,2013,Abhishek Kapoor
-32,33,Action,2013,Anand Kumar
-34,35,Romance/Thriller,2013,Arup Dutta
-35,36,Drama/Thriller,2013,Tigmanshu Dhulia
-36,37,Satire/Comedy,2013,Anshul Sharma
-37,38,Thriller,2013,Shantanu & Sheershak
-38,39,Comedy,2013,Ashima Chibber
-39,40,Comedy/Satire,2013,Subash Kapoor
-40,41,Action,2013,Priyadarshan
-41,42,Adventure,2013,"Shinjan Neogi, Abhishek Panchal"
-42,43,Action/Comedy,2013,Sajid Khan
-44,45,Comedy/Romance,2013,Rohan Sippy
-45,46,Action/Romance,2013,Dilip Ghosh
-46,47,Horror,2013,Kannan Iyer
-47,48,Musical romance,2013,Mohit Suri
-48,49,Thriller,2013,Rajesh Bachchani
-50,51,Anthology,2013,"Anurag Kashyap, Karan Johar, Zoya Akhtar, Dibakar Banerjee"
-51,52,Children/Animation,2013,Rajiv Chilaka
-52,53,Zombie comedy,2013,"Raj Nidimoru, Krishna D.K."
-53,54,Coming of age,2013,Sonam Nair
-54,55,Drama/Action,2013,Atul Sabharwal
-55,56,Romantic drama,2013,Amit Kasaria
-56,57,Drama,2013,Krishna Mishra
-57,58,Romance,2013,Prem Raj
-58,59,Romantic comedy,2013,Jyotin Goel
-59,60,Social,2013,Rajiv S. Ruia
-60,61,Romantic comedy,2013,Ayan Mukerji
-62,63,Comedy,2013,Mrigdeep Singh Lamba
-63,64,Thriller,2013,Suhail Tatari
-64,65,Romance,2013,Anand L. Rai
-65,66,Action,2013,Ashu Trikha
-66,67,Romantic thriller,2013,Susi Ganeshan
-67,68,Comedy/Thriller,2013,Rajkumar Gupta
-69,70,Action,2013,K. S. Ravikumar
-70,71,Biopic,2013,Rakeysh Omprakash Mehra
-71,72,Drama,2013,Raj Purohit
-72,73,Drama,2013,Ajay Bahl
-73,74,Comedy,2013,Amit Vats
-74,75,Rom-com,2013,Prabhudeva
-75,76,Action/Drama,2013,Nikhil Advani
-76,77,Avant-garde,2013,Anand Gandhi
-77,78,Romance/Drama,2013,Manish Tiwary
-78,79,Comedy,2013,Shashant Shah
-79,80,Romance,2013,Joe Rajan
-80,81,Erotic/Thriller,2013,Amit Saxena
-82,83,Comedy,2013,K. Rajesh
-83,84,Thriller/Drama,2013,Dinesh P. Bhonsle
-84,85,Romance,2013,Joy Mukherjee
-85,86,Comedy/Action,2013,Rohit Shetty
-86,87,Crime/Romance,2013,Milan Luthria
-87,88,Drama/Espionage thriller,2013,Shoojit Sircar
-88,89,Political thriller,2013,Prakash Jha
-90,91,Romance,2013,Maneesh Sharma
-91,92,Drama,2013,Richie Mehta
-92,93,Adult comedy,2013,Indra Kumar
-93,94,Thriller,2013,Ahishor Solomon
-94,95,Horror,2013,Ayush Raina
-95,96,Rom com/Action,2013,Rajkumar Santoshi
-96,97,Drama,2013,Ritesh Batra
-97,98,Thriller,2013,Gurmmeet Singh
-98,99,Suspense thriller,2013,Jaideep Chopra
-99,100,Psychological thriller/Romance,2013,Ashish R Shukla
-100,101,Drama,2013,Navin Batra
-102,103,Comedy,2013,Shuja Ali
-103,104,Drama,2013,Monish Kaushal
-104,105,Crime,2013,Aziz Sejawal
-105,106,Masala,2013,Anthony D'Souza
-106,107,Drama/Biography,2013,Hansal Mehta
-107,108,Political/Drama,2013,Babloo Seshadri
-108,109,Crime/Drama,2013,Apurv Bajpai
-109,110,Crime,2013,Ashish Tyagi
-110,111,Comedy/Thriller,2013,Saurabh Varma
-111,112,Romance,2013,Anish Khanna
-112,113,Comedy,2013,Shekhar Ghosh
-114,115,Crime,2013,Ram Gopal Varma
-115,116,Romance,2013,Vishwas Patil
-116,117,Romance/Drama,2013,Sanjay Leela Bhansali
-117,118,Romance/Comedy,2013,Punit Malhotra
-118,119,Action,2013,Anil Sharma
-119,120,Comedy/Crime/Romance,2013,Tigmanshu Dhulia
-121,122,Thriller/Comedy,2013,Kaizad Gustad
-122,123,Drama,2013,Gurmmet Singh
-123,124,Action,2013,Vijay Krishna Acharya
+0,146,Ugly,2014,Thriller
+10,11,International Hero,2015,Drama
+11,12,Mumbai Can Dance Saala,2015,Thriller
+12,13,Take It Easy,2015,Drama
+13,14,Tevar,2015,Action/romance
+14,15,Alone,2015,Horror
+15,16,Crazy Cukkad Family,2015,Comedy
+16,17,Sharafat Gayi Tel Lene,2015,Comedy/thriller
+17,18,Baby,2015,Thriller
+18,19,Dolly Ki Doli,2015,Romantic/comedy
+19,20,Chal Guru Ho Ja Shuru,2015,Comedy
+20,21,Hawaizaada,2015,Drama
+21,22,Khamoshiyan: Silences Have Secrets,2015,Horror
+22,23,Rahasya,2015,Mystery
+23,24,Jai Jawaan Jai Kisaan,2015,Drama
+24,25,Shamitabh,2015,Drama
+25,26,MSG: The Messenger,2015,Action/drama
+26,27,Roy,2015,Romance/thriller
+27,28,Badlapur,2015,Action/thriller
+28,29,Qissa,2015,Historical drama
+29,30,Ab Tak Chhappan 2,2015,Crime/drama
+30,31,Dum Laga Ke Haisha,2015,Comedy
+31,32,Badmashiyaan,2015,Romantic comedy
+32,33,Coffee Bloom,2015,Romance/drama
+33,34,Dirty Politics,2015,Political drama
+34,35,Hey Bro,2015,Comedy
+35,36,NH10,2015,Thriller
+36,37,Dilliwali Zaalim Girlfriend,2015,Comedy
+37,38,Hunterrr,2015,Comedy
+38,39,Barkhaa,2015,Romance
+39,40,Detective Byomkesh Bakshy,2015,Thriller
+40,41,Luckhnowi Ishq,2015,Romance
+41,42,Dharam Sankat Mein,2015,Drama
+42,43,Ek Paheli Leela,2015,Musical
+43,44,Court,2015,Drama
+44,45,Margarita with a Straw,2015,Drama
+45,46,Mr. X,2015,Sci fi/thriller
+46,47,NH-8 Road to Nidhivan,2015,Horror
+47,48,"Ek Adbhut Dakshina Guru Dakshina
+",2015,Dance/drama
+48,49,Ishq Ke Parindey,2015,Romance
+49,50,Kaagaz Ke Fools,2015,Comedy
+50,51,Gabbar is Back,2015,Crime/action
+51,52,Sabki Bajegi Band,2015,Thriller/drama
+52,53,Kuch Kuch Locha Hai,2015,Comedy
+53,54,Piku,2015,Comedy/drama
+54,55,Bombay Velvet,2015,Crime/drama
+55,56,Main Hoon Rajinikanth,2015,"Spoof, comedy, thriller"
+56,57,Tanu Weds Manu Returns,2015,Romance/comedy
+57,58,I Love Desi,2015,Comedy
+58,59,Ishqedarriyaan,2015,Drama
+59,60,P Se PM Tak,2015,Comedy
+60,61,Welcome 2 Karachi,2015,Comedy
+61,62,Dil Dhadakne Do,2015,Drama
+62,63,Mere Genie Uncle 3D,2015,Drama
+63,64,Hamari Adhuri Kahani,2015,Romance/drama
+64,65,ABCD 2,2015,Dance
+65,66,Miss Tanakpur Haazir Ho ,2015,Comedy/drama
+66,67,Uvaa,2015,Social/comedy
+67,68,Bezubaan Ishq,2015,Romance
+68,69,Guddu Rangeela,2015,Comedy
+69,70,Second Hand Husband,2015,Drama
+70,71,I Love NY,2015,Romance/drama
+71,72,Thoda Lutf Thoda Ishq,2015,Romance/drama
+72,73,Bajrangi Bhaijaan,2015,"Action, comedy, drama"
+73,74,Aisa Yeh Jahaan,2015,Drama
+74,75,Masaan,2015,Drama
+75,76,Drishyam,2015,Drama/thriller
+76,77,Bangistan,2015,Comedy
+77,78,Brothers,2015,Drama
+78,79,Gour Hari Dastaan,2015,Drama
+79,80,All Is Well,2015,Drama
+80,81,Manjhi - The Mountain Man,2015,Drama
+81,82,Rolling Dream,2015,Drama
+82,83,Kaun Kitney Paani Mein,2015,Social/drama
+83,84,Phantom,2015,Action/thriller
+84,85,Welcome Back,2015,Romance/comedy
+85,86,Hero,2015,Action/romance
+86,87,Sorry Daddy,2015,Action/drama
+87,88,Katti Batti,2015,Romance/comedy
+88,89,Meeruthiya Gangster,2015,Crime/comedy
+89,90,MSG-2:The Messenger,2015,Action/thriller
+90,91,Kis Kisko Pyaar Karoon,2015,Comedy
+91,92,Calendar Girls,2015,Drama
+92,93,Bhaag Johnny,2015,Drama
+93,94,Time Out,2015,Drama
+94,95,Mumbhaii - The Gangster,2015,Crime/Drama
+95,96,Singh Is Bliing,2015,Comedy
+96,97,Talvar,2015,Thriller
+97,98,Jazbaa,2015,Action/drama
+98,99,Bumper Draw,2015,Comedy
+99,100,Chinar Daastaan-E-Ishq,2015,Romantic/drama
+100,101,Pyaar Ka Punchnama 2,2015,Comedy
+101,102,Wedding Pullav,2015,Comedy
+102,103,Shaandaar,2015,Romance/comedy
+103,104,Titli,2015,Crime
+104,105,Main Aur Charles,2015,Thriller
+105,106,Once Upon A Time In Bihar,2015,Political
+106,107,"Guddu Ki Gun
+",2015,Comedy
+107,108,Love Exchange,2015,Romance
+108,109,Prithipal Singh... A Story,2015,Biopic
+109,110,Four Pillars of Basement,2015,Thriller
+110,111,Charlie Kay Chakkar Mein,2015,Crime/thriller
+111,112,Yaara Silly Silly,2015,Romance
+112,113,"Ranbanka
+",2015,Action
+113,114,Prem Ratan Dhan Payo,2015,Romance
+114,115,X,2015,Anthology
+115,116,Angry Indian Goddesses,2015,Drama
+116,117,Tamasha,2015,Romance
+117,118,Hate Story 3,2015,Adult/thriller
+118,119,Kajarya,2015,Drama
+119,120,The Silent Heroes,2015,Adventure
+120,121,Bajirao Mastani,2015,Romance
+121,122,Dilwale,2015,Action/romance
