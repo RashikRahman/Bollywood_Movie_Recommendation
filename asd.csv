@@ -1,117 +1,127 @@
 ,Movie_ID,Title,Year,Genre
-0,146,Ugly,2014,Thriller
-10,11,International Hero,2015,Drama
-11,12,Mumbai Can Dance Saala,2015,Thriller
-12,13,Take It Easy,2015,Drama
-13,14,Tevar,2015,Action/romance
-14,15,Alone,2015,Horror
-15,16,Crazy Cukkad Family,2015,Comedy
-16,17,Sharafat Gayi Tel Lene,2015,Comedy/thriller
-17,18,Baby,2015,Thriller
-18,19,Dolly Ki Doli,2015,Romantic/comedy
-19,20,Chal Guru Ho Ja Shuru,2015,Comedy
-20,21,Hawaizaada,2015,Drama
-21,22,Khamoshiyan: Silences Have Secrets,2015,Horror
-22,23,Rahasya,2015,Mystery
-23,24,Jai Jawaan Jai Kisaan,2015,Drama
-24,25,Shamitabh,2015,Drama
-25,26,MSG: The Messenger,2015,Action/drama
-26,27,Roy,2015,Romance/thriller
-27,28,Badlapur,2015,Action/thriller
-28,29,Qissa,2015,Historical drama
-29,30,Ab Tak Chhappan 2,2015,Crime/drama
-30,31,Dum Laga Ke Haisha,2015,Comedy
-31,32,Badmashiyaan,2015,Romantic comedy
-32,33,Coffee Bloom,2015,Romance/drama
-33,34,Dirty Politics,2015,Political drama
-34,35,Hey Bro,2015,Comedy
-35,36,NH10,2015,Thriller
-36,37,Dilliwali Zaalim Girlfriend,2015,Comedy
-37,38,Hunterrr,2015,Comedy
-38,39,Barkhaa,2015,Romance
-39,40,Detective Byomkesh Bakshy,2015,Thriller
-40,41,Luckhnowi Ishq,2015,Romance
-41,42,Dharam Sankat Mein,2015,Drama
-42,43,Ek Paheli Leela,2015,Musical
-43,44,Court,2015,Drama
-44,45,Margarita with a Straw,2015,Drama
-45,46,Mr. X,2015,Sci fi/thriller
-46,47,NH-8 Road to Nidhivan,2015,Horror
-47,48,"Ek Adbhut Dakshina Guru Dakshina
-",2015,Dance/drama
-48,49,Ishq Ke Parindey,2015,Romance
-49,50,Kaagaz Ke Fools,2015,Comedy
-50,51,Gabbar is Back,2015,Crime/action
-51,52,Sabki Bajegi Band,2015,Thriller/drama
-52,53,Kuch Kuch Locha Hai,2015,Comedy
-53,54,Piku,2015,Comedy/drama
-54,55,Bombay Velvet,2015,Crime/drama
-55,56,Main Hoon Rajinikanth,2015,"Spoof, comedy, thriller"
-56,57,Tanu Weds Manu Returns,2015,Romance/comedy
-57,58,I Love Desi,2015,Comedy
-58,59,Ishqedarriyaan,2015,Drama
-59,60,P Se PM Tak,2015,Comedy
-60,61,Welcome 2 Karachi,2015,Comedy
-61,62,Dil Dhadakne Do,2015,Drama
-62,63,Mere Genie Uncle 3D,2015,Drama
-63,64,Hamari Adhuri Kahani,2015,Romance/drama
-64,65,ABCD 2,2015,Dance
-65,66,Miss Tanakpur Haazir Ho ,2015,Comedy/drama
-66,67,Uvaa,2015,Social/comedy
-67,68,Bezubaan Ishq,2015,Romance
-68,69,Guddu Rangeela,2015,Comedy
-69,70,Second Hand Husband,2015,Drama
-70,71,I Love NY,2015,Romance/drama
-71,72,Thoda Lutf Thoda Ishq,2015,Romance/drama
-72,73,Bajrangi Bhaijaan,2015,"Action, comedy, drama"
-73,74,Aisa Yeh Jahaan,2015,Drama
-74,75,Masaan,2015,Drama
-75,76,Drishyam,2015,Drama/thriller
-76,77,Bangistan,2015,Comedy
-77,78,Brothers,2015,Drama
-78,79,Gour Hari Dastaan,2015,Drama
-79,80,All Is Well,2015,Drama
-80,81,Manjhi - The Mountain Man,2015,Drama
-81,82,Rolling Dream,2015,Drama
-82,83,Kaun Kitney Paani Mein,2015,Social/drama
-83,84,Phantom,2015,Action/thriller
-84,85,Welcome Back,2015,Romance/comedy
-85,86,Hero,2015,Action/romance
-86,87,Sorry Daddy,2015,Action/drama
-87,88,Katti Batti,2015,Romance/comedy
-88,89,Meeruthiya Gangster,2015,Crime/comedy
-89,90,MSG-2:The Messenger,2015,Action/thriller
-90,91,Kis Kisko Pyaar Karoon,2015,Comedy
-91,92,Calendar Girls,2015,Drama
-92,93,Bhaag Johnny,2015,Drama
-93,94,Time Out,2015,Drama
-94,95,Mumbhaii - The Gangster,2015,Crime/Drama
-95,96,Singh Is Bliing,2015,Comedy
-96,97,Talvar,2015,Thriller
-97,98,Jazbaa,2015,Action/drama
-98,99,Bumper Draw,2015,Comedy
-99,100,Chinar Daastaan-E-Ishq,2015,Romantic/drama
-100,101,Pyaar Ka Punchnama 2,2015,Comedy
-101,102,Wedding Pullav,2015,Comedy
-102,103,Shaandaar,2015,Romance/comedy
-103,104,Titli,2015,Crime
-104,105,Main Aur Charles,2015,Thriller
-105,106,Once Upon A Time In Bihar,2015,Political
-106,107,"Guddu Ki Gun
-",2015,Comedy
-107,108,Love Exchange,2015,Romance
-108,109,Prithipal Singh... A Story,2015,Biopic
-109,110,Four Pillars of Basement,2015,Thriller
-110,111,Charlie Kay Chakkar Mein,2015,Crime/thriller
-111,112,Yaara Silly Silly,2015,Romance
-112,113,"Ranbanka
-",2015,Action
-113,114,Prem Ratan Dhan Payo,2015,Romance
-114,115,X,2015,Anthology
-115,116,Angry Indian Goddesses,2015,Drama
-116,117,Tamasha,2015,Romance
-117,118,Hate Story 3,2015,Adult/thriller
-118,119,Kajarya,2015,Drama
-119,120,The Silent Heroes,2015,Adventure
-120,121,Bajirao Mastani,2015,Romance
-121,122,Dilwale,2015,Action/romance
+0,971,Monsoon Shootout,2016,Neo-noir
+1,972,Wazir,2016,Thriller
+2,973,Chalk n Duster,2016,Drama
+3,974,Rebellious Flower,2016,Biopic
+4,975,Airlift,2016,War/Thriller
+5,976,Jugni,2016,Musical drama
+6,977,Kyaa Kool Hain Hum 3,2016,Adult comedy
+7,978,Saala Khadoos,2016,Sports
+8,979,Mastizaade,2016,Adult comedy
+9,980,Sanam Teri Kasam,2016,Romance
+10,981,Ghayal Once Again,2016,Action/drama
+11,982,Fitoor,2016,Romance/drama
+12,983,Sanam Re,2016,Romance
+13,984,Direct Ishq,2016,Drama
+14,985,Ishq Forever,2016,Drama
+15,986,LoveShhuda,2016,Romance
+16,987,Neerja,2016,Biopic/drama
+17,988,Dhara 302,2016,Actiom/drama
+18,989,"Aligarh
+",2016,Biopic/drama
+19,990,Bollywood Diaries,2016,Drama
+20,991,Love Shagun,2016,Romance/comedy
+21,992,Tere Bin Laden: Dead or Alive,2016,Comedy
+22,993,Zubaan,2016,Drama
+23,994,Jai Gangaajal,2016,Drama/comedy
+24,995,Global Baba,2016,Satire
+25,996,Teraa Surroor,2016,Action/thriller/romance
+26,997,OK Mein Dhokhe,2016,Drama/thriller
+27,998,Kapoor & Sons,2016,Drama/comedy
+28,999,Rocky Handsome,2016,Action
+58,1029,Ki & Ka,2016,Romantic comedy
+59,1030,Love Games,2016,Thriller
+60,1031,The Blueberry Hunt,2016,Thriller
+61,1032,Kaafiron Ki Namaaz,2016,Drama
+62,1033,Fan,2016,Action/drama/thriller
+63,1034,Nil Battey Sannata,2016,Comedy/drama
+64,1035,Laal Rang,2016,Action
+65,1036,Santa Banta Pvt Ltd,2016,Comedy
+66,1037,Baaghi,2016,Action
+67,1038,Shortcut Safari,2016,"Adventure, drama"
+68,1039,One Night Stand,2016,Thriller
+69,1040,Traffic,2016,Thriller
+70,1041,1920 London,2016,Horror
+71,1042,Murari the Mad Gentleman,2016,Comedy
+72,1043,Azhar,2016,Biopic
+73,1044,Buddha in a Traffic Jam,2016,Political drama
+74,1045,Khel Toh Ab Shuru Hoga,2016,Comedy
+75,1046,Dear Dad,2016,Drama
+76,1047,Kaptaan,2016,Comedy
+77,1048,Sarbjit,2016,Biopic
+78,1049,Phobia,2016,Thriller/horror
+79,1050,Veerappan,2016,Action/biopic
+80,1051,Fredrick,2016,Action
+81,1052,Waiting,2016,Drama
+82,1053,Housefull 3,2016,Comedy
+83,1054,Do Lafzon Ki Kahani,2016,Romantic
+84,1055,Dhanak,2016,Drama
+85,1056,Te3n,2016,Thriller
+86,1057,Udta Punjab,2016,Crime
+87,1058,Luv U Alia,2016,Romance
+88,1059,Raman Raghav 2.0,2016,Crime/thriller
+89,1060,Junooniyat,2016,Romance
+90,1061,7 Hours To Go,2016,Crime/thriller
+91,1062,A Scandall,2016,Adult
+92,1063,Rough Book,2016,Drama
+93,1064,Shorgul,2016,Political drama
+94,1065,Dil Toh Deewana Hai,2016,Comedy/romance
+95,1066,Sultan,2016,Sports/drama
+96,1067,Brahman Naman,2016,Comedy
+97,1068,Great Grand Masti,2016,Sex comedy/horror
+98,1069,Madaari,2016,Drama
+99,1070,Ishq Click,2016,Romance/drama
+100,1071,M Cream,2016,Road movie
+101,1072,Dishoom,2016,Action
+102,1073,Love Ke Funday,2016,Comedy
+103,1074,The Legend of Michael Mishra,2016,Romance/drama
+104,1075,Fever,2016,Thriller
+105,1076,Hai Apna Dil Toh Awara,2016,Comedy/Romance
+106,1077,Mohenjo Daro,2016,Period drama
+107,1078,Rustom,2016,Romance/thriller
+108,1079,Happy Bhaag Jayegi,2016,Comedy
+109,1080,Waarrior Savitri,2016,Action
+110,1081,A Flying Jatt,2016,Superhero/Action/comedy
+111,1082,Akira,2016,Action/drama
+112,1083,Yea Toh Two Much Ho Gayaa,2016,Action/drama
+113,1084,Island City,2016,Drama
+114,1085,Baar Baar Dekho,2016,Drama/Romance
+115,1086,Freaky Ali,2016,Comedy/sports
+116,1087,Ek Kahani Julie Ki,2016,Thriller
+117,1088,Raaz Reboot,2016,Horror
+118,1089,Pink,2016,Drama
+119,1090,Parched,2016,Drama
+120,1091,Banjo,2016,Comedy/drama
+121,1092,Days of Tafree,2016,Comedy
+122,1093,Wah Taj,2016,Satirical
+123,1094,M.S. Dhoni: The Untold Story,2016,Biopic/sports
+124,1095,Mirzya,2016,Drama/romance
+125,1096,"MSG: The Warrior Lion Heart
+",2016,Adventure
+126,1097,Tutak Tutak Tutiya,2016,Supernatural comedy
+127,1098,Anna ,2016,Biographical
+128,1099,Motu Patlu: King Of Kings,2016,Animation/comedy/adventure
+129,1100,Beiimaan Love,2016,Thriller
+130,1101,Saat Uchakkey,2016,Comedy
+131,1102,Fuddu,2016,Drama
+132,1103,Aakhir Kab Tak,2016,Social drama
+133,1104,[LOVE DAY pyaar Ka din],2016,Comedy thriller
+134,1105,Umrika,2016,Drama
+135,1106,31st October,2016,Drama/thriller
+136,1107,Shivaay,2016,Drama/action
+137,1108,Ae Dil Hai Mushkil,2016,Drama
+138,1109,Chaar Sahibzaade: Rise of Banda Singh Bahadur,2016,Animation
+139,1110,Dongari Ka Raja,2016,Action/thriller
+140,1111,Ishq Junoon,2016,Romantic/erotic
+141,1112,Rock On 2,2016,Drama
+142,1113,Tum Bin 2,2016,Romance
+143,1114,Force 2,2016,Action
+144,1115,"Dear Zindagi
+",2016,Drama
+145,1116,Saansein,2016,Romantic/horror
+146,1117,"Moh Maya Money
+",2016,Crime drama
+147,1118,Kahaani 2,2016,Thriller
+148,1119,Befikre,2016,Romance
+149,1120,Wajah Tum Ho,2016,Romance/drama
+150,1121,Dangal,2016,Biopic
