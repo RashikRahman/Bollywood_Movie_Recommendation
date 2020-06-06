@@ -93,7 +93,7 @@ Movie_ID,Title,Year,Genre
 "
 34846,Albela,2001,"Romance
 "
-34847,AÅ›oka,2001,"History
+34847,Asoka,2001,"History
 "
 34848,Bas Itna Sa Khwaab Hai,2001,"Drama, Romance, Social
 "
@@ -207,7 +207,7 @@ Movie_ID,Title,Year,Genre
 "
 34903,Zubeidaa,2001,"Drama
 "
-34904,16 December,2002,"Action
+34904,16-Dec,2002,"Action
 "
 34905,23rd March 1931: Shaheed,2002,"Historical Drama
 "
@@ -499,7 +499,7 @@ Movie_ID,Title,Year,Genre
 "
 35049,Khanjar: The Knife,2003,"Action
 "
-35050,Khel â€“ No Ordinary Game,2003,"Thriller
+35050,Khel – No Ordinary Game,2003,"Thriller
 "
 35051,Khushi,2003,"Romance
 "
@@ -727,7 +727,7 @@ Movie_ID,Title,Year,Genre
 "
 35163,Kyun! Ho Gaya Na...,2004,"Romance, Drama, Comedy
 "
-35164,Lakeer â€“ Forbidden Lines,2004,"Action, Drama, Romance
+35164,Lakeer – Forbidden Lines,2004,"Action, Drama, Romance
 "
 35165,Lakshya,2004,"War, Drama, Action, Romance
 "
@@ -825,7 +825,7 @@ Movie_ID,Title,Year,Genre
 "
 35212,Yuva,2004,"Drama, Action
 "
-35213,7Â½ Phere,2005,"Comedy
+35213,7½ Phere,2005,"Comedy
 "
 35214,"99.9 FM,",2005,"Crime / Thriller
 "
@@ -857,7 +857,7 @@ Movie_ID,Title,Year,Genre
 "
 35229,Bunty Aur Babli,2005,"Comedy, Crime, Romance, Musical
 "
-35230,Chaahat â€“ Ek Nasha,2005,"Romance
+35230,Chaahat – Ek Nasha,2005,"Romance
 "
 35231,Chand Sa Roshan Chehra,2005,"Romance
 "
@@ -871,7 +871,7 @@ Movie_ID,Title,Year,Genre
 "
 35236,Chor Mandi,2005,"Comedy
 "
-35237,Classic â€“ Dance of Love,2005,"Erotic Thriller
+35237,Classic – Dance of Love,2005,"Erotic Thriller
 "
 35238,D,2005,"Crime, Drama
 "
@@ -899,7 +899,7 @@ Movie_ID,Title,Year,Genre
 "
 35250,Film Star,2005,"
 "
-35251,Fun â€“ Can Be Dangerous Sometimes,2005,"Erotic Drama
+35251,Fun – Can Be Dangerous Sometimes,2005,"Erotic Drama
 "
 35252,Garam Masala,2005,"Comedy
 "
@@ -1106,7 +1106,7 @@ Movie_ID,Title,Year,Genre
 35371,Ek Main Ek Tum,2006,
 35372,Family,2006,"Drama, Thriller"
 35373,Fanaa,2006,"Drama, Romance, Thriller, Musical"
-35374,Fight Club â€“ Members Only,2006,"Action, Thriller"
+35374,Fight Club – Members Only,2006,"Action, Thriller"
 35375,Gangster,2006,"Drama, Romance, Thriller, Musical"
 35376,Golmaal: Fun Unlimited,2006,Comedy
 35377,Haseena,2006,"Thriller, Comedy"
@@ -1148,7 +1148,7 @@ Movie_ID,Title,Year,Genre
 35413,Rehguzar - The Road to Destiny,2006,
 35414,Rocky,2006,"Action, Romance"
 35415,Saawan... The Love Season,2006,"Drama, Romance"
-35416,Sacred Evil â€“ A True Story,2006,"Horror, Thriller"
+35416,Sacred Evil – A True Story,2006,"Horror, Thriller"
 35417,Salaam Bacche,2006,
 35418,Sandwich,2006,Comedy
 35419,Sarhad Paar,2006,Drama
@@ -1460,7 +1460,7 @@ Movie_ID,Title,Year,Genre
 35631,Dasvidaniya,2008,"Comedy, Drama, Musical, Romance"
 35632,Deshdrohi,2008,Politics
 35633,Yuvvraaj,2008,"Musical, Drama, Romance, Family"
-35634,Gumnaam â€“ The Mystery,2008,"Thriller, Mystery"
+35634,Gumnaam – The Mystery,2008,"Thriller, Mystery"
 35635,Oye Lucky! Lucky Oye!,2008,"Comedy, Drama"
 35636,Sorry Bhai!,2008,Romance
 35637,Maharathi,2008,Thriller
@@ -1690,7 +1690,7 @@ Movie_ID,Title,Year,Genre
 35862,A Flat,2010,Thriller
 35863,Ramaa: The Saviour,2010,"Action, Adventure"
 35864,Guzaarish,2010,Romance
-35865,"Shahrukh Bola ""Khoobsurat Hai Tu""",2010,Thriller
+35865,Shahrukh Bola "Khoobsurat Hai Tu",2010,Thriller
 35866,Diwangi Ne Had Kar Di,2010,Romance / Thriller
 35867,Allah Ke Banday,2010,Thriller
 35868,Break Ke Baad,2010,Romance
@@ -1744,7 +1744,7 @@ Movie_ID,Title,Year,Genre
 35926,I Am,2011,Social/Drama
 35927,Naughty @ 40,2011,Comedy
 35928,Luv Ka The End,2011,Teen/Comedy
-35929,Haunted â€“ 3D,2011,Horror
+35929,Haunted – 3D,2011,Horror
 35930,Love U...Mr. Kalakaar!,2011,Romance/Comedy
 35931,Ragini MMS,2011,Horror/Romance
 35932,Shagird,2011,Action/Drama
@@ -1777,7 +1777,7 @@ Movie_ID,Title,Year,Genre
 35960,Chatur Singh Two Star,2011,Comedy
 35961,Not a Love Story,2011,Crime
 35962,Sahi Dhandhe Galat Bande,2011,Comedy
-35963,Chitkabrey â€“ Shades of Grey,2011,Social
+35963,Chitkabrey – Shades of Grey,2011,Social
 35964,Shabri,2011,Action
 35965,Yeh Dooriyan,2011,Romance
 35966,Bodyguard,2011,Romance/Action
@@ -1876,7 +1876,7 @@ Movie_ID,Title,Year,Genre
 36070,Overtime,2012,Drama
 36071,Jism 2,2012,Adult/Thriller
 36072,Krishna Aur Kans ,2012,Computer-Animated
-36073,Gangs of Wasseypur â€“ Part 2,2012,Adult/Crime/Thriller
+36073,Gangs of Wasseypur – Part 2,2012,Adult/Crime/Thriller
 36074,Paanch Ghantey Mien Paanch Crore,2012,Thriller
 36075,Ek Tha Tiger,2012,Romance/Action
 36076,Shirin Farhad Ki Toh Nikal Padi,2012,Romance/Comedy
@@ -1890,7 +1890,7 @@ Movie_ID,Title,Year,Genre
 36084,Jeena Hai Toh Thok Daal,2012,Drama
 36085,Heroine,2012,Adult/Drama
 36086,Kamaal Dhamaal Malamaal,2012,Comedy
-36087,OMG â€“ Oh My God!,2012,Comedy
+36087,OMG – Oh My God!,2012,Comedy
 36088,English Vinglish,2012,Drama
 36089,Kismet Love Paisa Dilli,2012,Comedy
 36090,Aiyyaa,2012,Rom-Com
@@ -2087,7 +2087,7 @@ Movie_ID,Title,Year,Genre
 36302,Manjunath,2014,Drama
 36303,Mastram,2014,Adult
 36304,Yeh Hai Bakrapur,2014,Comedy
-36305,The XposÃ©,2014,Thriller
+36305,The Xposé,2014,Thriller
 36306,Children of War,2014,Drama
 36307,M3 - Midsummer Midnight Mumbai,2014,Mystery
 36308,Heropanti,2014,Romance/Action
@@ -2464,7 +2464,7 @@ Movie_ID,Title,Year,Genre
 36716,Shab,2017,Drama
 36717,Lipstick Under My Burkha,2017,Sex/drama
 36718,Munna Michael,2017,Action/romance
-36719,Raag DeshÂ : Birth Of A Nation,2017,Period drama/action
+36719,Raag Desh : Birth Of A Nation,2017,Period drama/action
 36720,Indu Sarkar,2017,Drama
 36721,Mubarakan,2017,Comedy/romance
 36722,Gurgaon,2017,Neo-noir
@@ -2474,7 +2474,7 @@ Movie_ID,Title,Year,Genre
 36726,Bareilly Ki Barfi,2017,Comedy/romance
 36727,A Gentleman,2017,Action/romance
 36728,Babumoshai Bandookbaaz,2017,Action
-36729,Yadvi â€“ The Dignified Princess,2017,Drama
+36729,Yadvi – The Dignified Princess,2017,Drama
 36730,Qaidi Band,2017,Musical/drama
 36731,"Baadshaho
 ",2017,Action/crime Thriller
@@ -2520,201 +2520,201 @@ Movie_ID,Title,Year,Genre
 36771,Sallu ki Shaadi,2017,Comedy drama
 36773,Tiger Zinda Hai,2017,Action/drama
 36774,1921,2018,Horror
-36774,Kaalakaandi,2018,Dark comedy
-36774,Mukkabaaz,2018,Drama
-36774,My Birthday Song,2018,Psychological Thriller
-36774,Vodka Diaries,2018,Suspense Thriller
-36774,Nirdosh,2018,Thriller
-36774,Union Leader,2018,Drama
-36774,Padmaavat,2018,Period drama
-36774,Pad Man,2018,Comedy Drama
-36774,Love Per Square Foot,2018,Romantic Comedy
-36774,Aiyaary,2018,Drama
-36774,Kuchh Bheege Alfaaz,2018,Romance
-36774,Jaane Kyun De Yaaron,2018,Drama
-36774,Sonu Ke Titu Ki Sweety,2018,Drama
-36774,Welcome To New York,2018,Comedy
-36774,Pari,2018,Thriller
-36774,Veerey Ki Wedding,2018,Drama
-36774,Billu Ustaad,2018,Drama
-36774,Hate Story 4,2018,Erotic thriller
-36774,Dil Juunglee,2018,Romantic/ Comedy
-36774,3 Storeys,2018,Thriller
-36774,Note Pe Chot at 8/11,2018,Satire/ Comedy
-36774,Raid,2018,"Action, thriller"
-36774,Raja Abroadiya,2018,Comedy
-36774,Hichki,2018,Drama
-36774,Pareshaan Parinda,2018,Thriller
-36774,Baa Baaa Black Sheep,2018,Comedy
-36774,Shaadi Teri Bajayenge Hum Band,2018,Comedy
-36774,Baaghi 2,2018,Action/Romance
-36774,Missing,2018,Psychological Thriller
-36774,Mercury,2018,Thriller
-36774,Zoo,2018,Drama
-36774,Beyond the Clouds,2018,Drama
-36774,Nanu Ki Jaanu,2018,Comedy
-36774,Daas Dev,2018,Romantic thriller
-36774,Ishq Tera,2018,Thriller
-36774,Our Heroes,2018,Action
-36774,102 Not Out,2018,Comedy
-36774,Omerta,2018,Crime Drama
-36774,Raazi,2018,Period Thriller
-36774,The Past,2018,Horror Thriller
-36774,Hope Aur Hum,2018,Drama
-36774,Falooda,2018,Comedy
-36774,Bhootwali Love Story,2018,Horror-Comedy
-36774,High Jack,2018,Comedy
-36774,Khajoor Pe Atke,2018,Comedy
-36774,Parmanu: The Story Of Pokhran,2018,Action/drama
-36774,One Night Out,2018,Suspense thriller
-36774,Bioscopewala,2018,Drama
-36774,Veere Di Wedding,2018,Romantic comedy
-36774,Bhavesh Joshi Superhero,2018,Action
-36774,Phamous,2018,Drama/Action
-36774,Race 3,2018,Thriller
-36774,Sanju,2018,Biopic
-36774,Soorma,2018,Biopic
-36774,When Obama Loved Osama,2018,Comedy
-36774,Dhadak,2018,Drama
-36774,Ekta,2018,Horror/Thriller
-36774,"Saheb, Biwi Aur Gangster 3",2018,Drama
-36774,Nawabzaade,2018,Romantic Comedy
-36774,Fanney Khan,2018,Musical comedy
-36774,Mulk,2018,Drama
-36774,Brij Mohan Amar Rahe!,2018,Crime Comedy
-36774,Laxmi and Tikli Bomb,2018,Drama
-36774,Karwaan,2018,Comedy
-36774,Gold,2018,Sports/Drama
-36774,Satyameva Jayate,2018,Action/Thriller
-36774,Happy Phirr Bhag Jayegi,2018,Comedy
-36774,Genius,2018,
-36774,Yamla Pagla Deewana: Phir Se,2018,Comedy
-36774,Stree,2018,Horror Comedy
-36774,Paltan,2018,Action/War
-36774,Laila Majnu,2018,Drama/Romance
-36774,Gali Guleiyan,2018,Psychological drama
-36774,Halkaa,2018,Drama
-36774,Manmarziyaan,2018,Romantic/ Drama
-36774,Love Sonia,2018,Drama
-36774,Turning Point,2018,Action/Drama/Musical
-36774,Bajra vs Burger,2018,Comedy
-36774,Kathor,2018,Drama
-36774,22 Days,2018,Drama
-36774,Mitron,2018,Comedy
-36774,Batti Gul Meter Chalu,2018,"Romance, Social Drama"
-36774,Manto,2018,Biographical
-36774,Ishqeria,2018,Romance
-36774,Sui Dhaaga,2018,"Romance, Social Drama"
-36774,Pataakha,2018,Drama
-36774,Loveyatri,2018,Romantic
-36774,Andhadhun,2018,Romantic thriller
-36774,Jalebi,2018,Romance
-36774,Helicopter Eela,2018,Drama
-36774,Maal road dilli,2018,Drama
-36774,FryDay,2018,Comedy
-36774,Tumbbad,2018,Suspense Thriller
-36774,Namaste England,2018,Romantic comedy
-36774,Badhaai Ho,2018,Romantic comedy
-36774,Baazaar,2018,Crime
-36774,5 Weddings,2018,"Comedy, Romance, Drama"
-36774,Kaashi in Search of Ganga,2018,Suspense thriller
-36774,Dassehra,2018,Action Thriller
-36774,The Journey of Karma,2018,Erotic thriller
-36774,Lupt,2018,Horror
-36774,Jack and Dil,2018,Comedy
-36774,Mausam Ikrar Ke Do Pal Pyaar Ke,2018,Romantic Family Drama
-36774,Thugs of Hindostan,2018,Period action/adventure
-36774,Mohalla Assi,2018,Drama
-36774,Pihu,2018,Thriller
-36774,Hotel Milan,2018,Comedy
-36774,Bhaiaji Superhit,2018,Action/Comedy
-36774,Rajma Chawal,2018,Drama
-36774,Kedarnath,2018,Drama
-36774,PK Lele A Salesman,2018,Adult-comedy
-36774,Zero,2018,Comedy/drama
-36774,Simmba,2018,Action Comedy
-36774,Uri: The Surgical Strike,2019,Action
-36774,Battalion 609,2019,Action
-36774,The Accidental Prime Minister,2019,Biopic
-36774,Why Cheat India,2019,Drama
-36774,Fraud Saiyaan,2019,Comedy
-36774,Soni,2019,Crime Drama
-36774,72 Hours: Martyr Who Never Died,2019,Biographical Drama
-36774,Bombairiya,2019,Black comedy
-36774,Rangeela Raja,2019,Comedy
-36774,The Lift Boy,2019,Drama/ Coming of Age
-36774,Thackeray,2019,Biographical
-36774,Manikarnika: The Queen of Jhansi,2019,Biographical
-36774,Ek Ladki Ko Dekha Toh Aisa Laga,2019,Romance
-36774,The Fakir of Venice,2019,Drama
-36774,Gully Boy,2019,Biopic
-36774,Hum Chaar,2019,Drama
-36774,Total Dhamaal,2019,Comedy
-36774,Luka Chuppi,2019,Romantic comedy
-36774,Sonchiriya,2019,Crime Drama
-36774,Badla,2019,Drama /Thriller
-36774,Hamid,2019,Drama
-36774,Photograph,2019,Drama
-36774,Milan Talkies,2019,Drama
-36774,Mere Pyare Prime Minister,2019,Social Drama
-36774,Kesari,2019,Drama/historical
-36774,Mard Ko Dard Nahi Hota,2019,Action Comedy
-36774,Notebook,2019,Drama
-36774,Junglee,2019,Action
-36774,Romeo Akbar Walter,2019,Action thriller
-36774,Albert Pinto Ko Gussa Kyun Aata Hai?,2019,Thriller
-36774,The Tashkent Files,2019,Thriller
-36774,Kalank,2019,Period drama / thriller
-36774,Blank,2019,Action Thriller
-36774,Setters,2019,Thriller
-36774,Student of the Year 2,2019,Romantic comedy
-36774,De De Pyaar De,2019,Romantic comedy
-36774,India's Most Wanted,2019,Thriller
-36774,PM Narendra Modi,2019,Biopic
-36774,Bharat,2019,Drama
-36774,Khamoshi,2019,Horror
-36774,Kabir Singh,2019,Drama
-36774,Article 15,2019,Drama/ Thriller
-36774,Malaal,2019,Romance
-36774,One Day: Justice Delivered,2019,Action Thriller
-36774,Hume Tumse Pyaar Kitna,2019,Romantic thriller
-36774,Super 30,2019,Biopic
-36774,Family of Thakurganj,2019,Family Drama
-36774,Jhootha Kahin Ka,2019,Comedy
-36774,Judgementall Hai Kya,2019,"Thriller, Comedy"
-36774,Arjun Patiala,2019,Romantic Comedy
-36774,Khandaani Shafakhana,2019,Comedy
-36774,Jabariya Jodi,2019,Romantic Comedy
-36774,Chicken Curry Law,2019,Drama
-36774,Pranaam,2019,Action
-36774,Batla House,2019,Action
-36774,Mission Mangal,2019,Drama
-36774,Saaho,2019,Action
-36774,Chhichhore,2019,Comedy-Drama
-36774,Dream Girl,2019,Comedy
-36774,Section 375,2019,crime thriller
-36774,The Zoya Factor,2019,Drama
-36774,Pal Pal Dil Ke Paas,2019,Drama/Romance
-36774,Prassthanam,2019,Drama
-36774,Jhalki,2019,Drama
-36774,War,2019,"Action, Thriller"
-36774,The Sky Is Pink,2019,Biopic
-36774,Lootcase,2019,Comedy Drama
-36774,P Se Pyaar F Se Faraar,2019,Drama
-36774,Laal Kaptaan,2019,Action
-36774,Yaaram,2019,Romantic drama
-36774,Housefull 4,2019,Comedy
-36774,Saand Ki Aankh,2019,Biopic
-36774,Made In China,2019,Comedy
-36774,Bypass Road,2019,Horror Thriller
-36774,Marjaavaan,2019,Action/Romance
-36774,Shikara - A Love Letter from Kashmir,2019,Historical/Romance
-36774,Bala,2019,Black Comedy
-36774,Pagalpanti,2019,Comedy
-36774,Dil Bechara,2019,Romantic drama
-36774,Jawaani Jaaneman,2019,Romantic drama
-36774,Panipat,2019,Action/battle
-36774,"Pati, Patni Aur Woh",2019,Comedy
-36774,Mardaani 2,2019,Crime Thriller
-36774,Dabangg 3,2019,Action
-36774,Good News,2019,Comedy
+36775,Kaalakaandi,2018,Dark comedy
+36776,Mukkabaaz,2018,Drama
+36777,My Birthday Song,2018,"Psychological,Thriller"
+36778,Vodka Diaries,2018,"Suspense,Thriller"
+36779,Nirdosh,2018,Thriller
+36780,Union Leader,2018,Drama
+36781,Padmaavat,2018,drama
+36782,Pad Man,2018,"Comedy,Drama"
+36783,Love Per Square Foot,2018,"Romantic,Comedy"
+36784,Aiyaary,2018,Drama
+36785,Kuchh Bheege Alfaaz,2018,Romance
+36786,Jaane Kyun De Yaaron,2018,Drama
+36787,Sonu Ke Titu Ki Sweety,2018,Drama
+36788,Welcome To New York,2018,Comedy
+36789,Pari,2018,Thriller
+36790,Veerey Ki Wedding,2018,Drama
+36791,Billu Ustaad,2018,Drama
+36792,Hate Story 4,2018,thriller
+36793,Dil Juunglee,2018,Romantic/ Comedy
+36794,3 Storeys,2018,Thriller
+36795,Note Pe Chot at 8/11,2018,Satire/ Comedy
+36796,Raid,2018,"Action, thriller"
+36797,Raja Abroadiya,2018,Comedy
+36798,Hichki,2018,Drama
+36799,Pareshaan Parinda,2018,Thriller
+36800,Baa Baaa Black Sheep,2018,Comedy
+36801,Shaadi Teri Bajayenge Hum Band,2018,Comedy
+36802,Baaghi 2,2018,Action/Romance
+36803,Missing,2018,"Psychological,Thriller"
+36804,Mercury,2018,Thriller
+36805,Zoo,2018,Drama
+36806,Beyond the Clouds,2018,Drama
+36807,Nanu Ki Jaanu,2018,Comedy
+36808,Daas Dev,2018,"Romantic,thriller"
+36809,Ishq Tera,2018,Thriller
+36810,Our Heroes,2018,Action
+36811,102 Not Out,2018,Comedy
+36812,Omerta,2018,"Crime,Drama"
+36813,Raazi,2018,Thriller
+36814,The Past,2018,"Horror,Thriller"
+36815,Hope Aur Hum,2018,Drama
+36816,Falooda,2018,Comedy
+36817,Bhootwali Love Story,2018,"Horror,Comedy"
+36818,High Jack,2018,Comedy
+36819,Khajoor Pe Atke,2018,Comedy
+36820,Parmanu: The Story Of Pokhran,2018,Action/drama
+36821,One Night Out,2018,"Suspense,thriller"
+36822,Bioscopewala,2018,Drama
+36823,Veere Di Wedding,2018,"Romantic,comedy"
+36824,Bhavesh Joshi Superhero,2018,Action
+36825,Phamous,2018,Drama/Action
+36826,Race 3,2018,Thriller
+36827,Sanju,2018,Biopic
+36828,Soorma,2018,Biopic
+36829,When Obama Loved Osama,2018,Comedy
+36830,Dhadak,2018,Drama
+36831,Ekta,2018,Horror/Thriller
+36832,"Saheb, Biwi Aur Gangster 3",2018,Drama
+36833,Nawabzaade,2018,"Romantic,Comedy"
+36834,Fanney Khan,2018,"Musical,comedy"
+36835,Mulk,2018,Drama
+36836,Brij Mohan Amar Rahe!,2018,"Crime,Comedy"
+36837,Laxmi and Tikli Bomb,2018,Drama
+36838,Karwaan,2018,Comedy
+36839,Gold,2018,Sports/Drama
+36840,Satyameva Jayate,2018,Action/Thriller
+36841,Happy Phirr Bhag Jayegi,2018,Comedy
+36842,Genius,2018,
+36843,Yamla Pagla Deewana: Phir Se,2018,Comedy
+36844,Stree,2018,"Horror,Comedy"
+36845,Paltan,2018,Action/War
+36846,Laila Majnu,2018,Drama/Romance
+36847,Gali Guleiyan,2018,"Psychological,drama"
+36848,Halkaa,2018,Drama
+36849,Manmarziyaan,2018,Romantic/Drama
+36850,Love Sonia,2018,Drama
+36851,Turning Point,2018,Action/Drama/Musical
+36852,Bajra vs Burger,2018,Comedy
+36853,Kathor,2018,Drama
+36854,22 Days,2018,Drama
+36855,Mitron,2018,Comedy
+36856,Batti Gul Meter Chalu,2018,"Romance, Social,Drama"
+36857,Manto,2018,Biographical
+36858,Ishqeria,2018,Romance
+36859,Sui Dhaaga,2018,"Romance, Social,Drama"
+36860,Pataakha,2018,Drama
+36861,Loveyatri,2018,Romantic
+36862,Andhadhun,2018,thriller
+36863,Jalebi,2018,Romance
+36864,Helicopter Eela,2018,Drama
+36865,Maal road dilli,2018,Drama
+36866,FryDay,2018,Comedy
+36867,Tumbbad,2018,"Suspense,Thriller"
+36868,Namaste England,2018,"romance,comedy"
+36869,Badhaai Ho,2018,"romance,comedy"
+36870,Baazaar,2018,Crime
+36871,5 Weddings,2018,"Comedy, Romance, Drama"
+36872,Kaashi in Search of Ganga,2018,Suspense thriller
+36873,Dassehra,2018,"Action,Thriller"
+36874,The Journey of Karma,2018,thriller
+36875,Lupt,2018,Horror
+36876,Jack and Dil,2018,Comedy
+36877,Mausam Ikrar Ke Do Pal Pyaar Ke,2018,"Romance,Family,Drama"
+36878,Thugs of Hindostan,2018,action/adventure
+36879,Mohalla Assi,2018,Drama
+36880,Pihu,2018,Thriller
+36881,Hotel Milan,2018,Comedy
+36882,Bhaiaji Superhit,2018,Action/Comedy
+36883,Rajma Chawal,2018,Drama
+36884,Kedarnath,2018,Drama
+36885,PK Lele A Salesman,2018,Adult-comedy
+36886,Zero,2018,Comedy/drama
+36887,Simmba,2018,Action Comedy
+36888,Uri: The Surgical Strike,2019,Action
+36889,Battalion 609,2019,Action
+36890,The Accidental Prime Minister,2019,Biopic
+36891,Why Cheat India,2019,Drama
+36892,Fraud Saiyaan,2019,Comedy
+36893,Soni,2019,"Crime, Drama"
+36894,72 Hours: Martyr Who Never Died,2019,"Biography,Drama"
+36895,Bombairiya,2019,comedy
+36896,Rangeela Raja,2019,Comedy
+36897,The Lift Boy,2019,Drama/ Coming of Age
+36898,Thackeray,2019,Biographical
+36899,Manikarnika: The Queen of Jhansi,2019,Biographical
+36900,Ek Ladki Ko Dekha Toh Aisa Laga,2019,Romance
+36901,The Fakir of Venice,2019,Drama
+36902,Gully Boy,2019,Biopic
+36903,Hum Chaar,2019,Drama
+36904,Total Dhamaal,2019,Comedy
+36905,Luka Chuppi,2019,"Romance, comedy"
+36906,Sonchiriya,2019,"Crime,Drama"
+36907,Badla,2019,Drama /Thriller
+36908,Hamid,2019,Drama
+36909,Photograph,2019,Drama
+36910,Milan Talkies,2019,Drama
+36911,Mere Pyare Prime Minister,2019,"Social ,Drama"
+36912,Kesari,2019,Drama/historical
+36913,Mard Ko Dard Nahi Hota,2019,Action Comedy
+36914,Notebook,2019,Drama
+36915,Junglee,2019,Action
+36916,Romeo Akbar Walter,2019,"Action, thriller"
+36917,Albert Pinto Ko Gussa Kyun Aata Hai?,2019,Thriller
+36918,The Tashkent Files,2019,Thriller
+36919,Kalank,2019,Period drama / thriller
+36920,Blank,2019,Action Thriller
+36921,Setters,2019,Thriller
+36922,Student of the Year 2,2019,Romantic comedy
+36923,De De Pyaar De,2019,Romantic comedy
+36924,India's Most Wanted,2019,Thriller
+36925,PM Narendra Modi,2019,Biopic
+36926,Bharat,2019,Drama
+36927,Khamoshi,2019,Horror
+36928,Kabir Singh,2019,Drama
+36929,Article 15,2019,Drama/ Thriller
+36930,Malaal,2019,Romance
+36931,One Day: Justice Delivered,2019,"Action ,Thriller"
+36932,Hume Tumse Pyaar Kitna,2019,"Romance, thriller"
+36933,Super 30,2019,Biopic
+36934,Family of Thakurganj,2019,"Family, Drama"
+36935,Jhootha Kahin Ka,2019,Comedy
+36936,Judgementall Hai Kya,2019,"Thriller, Comedy"
+36937,Arjun Patiala,2019,"Romance, Comedy"
+36938,Khandaani Shafakhana,2019,Comedy
+36939,Jabariya Jodi,2019,"Romance, Comedy"
+36940,Chicken Curry Law,2019,Drama
+36941,Pranaam,2019,Action
+36942,Batla House,2019,Action
+36943,Mission Mangal,2019,Drama
+36944,Saaho,2019,Action
+36945,Chhichhore,2019,"Comedy,Drama"
+36946,Dream Girl,2019,Comedy
+36947,Section 375,2019,"crime, thriller"
+36948,The Zoya Factor,2019,Drama
+36949,Pal Pal Dil Ke Paas,2019,Drama/Romance
+36950,Prassthanam,2019,Drama
+36951,Jhalki,2019,Drama
+36952,War,2019,"Action, Thriller"
+36953,The Sky Is Pink,2019,Biopic
+36954,Lootcase,2019,"Comedy, Drama"
+36955,P Se Pyaar F Se Faraar,2019,Drama
+36956,Laal Kaptaan,2019,Action
+36957,Yaaram,2019,"Romance,drama"
+36958,Housefull 4,2019,Comedy
+36959,Saand Ki Aankh,2019,Biopic
+36960,Made In China,2019,Comedy
+36961,Bypass Road,2019,Horror Thriller
+36962,Marjaavaan,2019,Action/Romance
+36963,Shikara - A Love Letter from Kashmir,2019,Historical/Romance
+36964,Bala,2019,Black Comedy
+36965,Pagalpanti,2019,Comedy
+36966,Dil Bechara,2019,"Romance,drama"
+36967,Jawaani Jaaneman,2019,"Romance,drama"
+36968,Panipat,2019,Action/battle
+36969,"Pati, Patni Aur Woh",2019,Comedy
+36970,Mardaani 2,2019,"Crime,Thriller"
+36971,Dabangg 3,2019,Action
+36972,Good News,2019,Comedy
