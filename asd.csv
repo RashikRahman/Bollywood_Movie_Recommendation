@@ -1,102 +1,105 @@
 ,Movie_ID,Title,Year,Genre
-0,113,Don 2,2011,Action/thriller
-10,11,"6
-",2012,Players
-11,12,"13
-",2012,Chaalis Chauraasi 4084
-14,15,"26
-",2012,Agneepath
-15,16,"3
-",2012,Gali Gali Chor Hai
-18,19,"10
-",2012,Ek Main Aur Ekk Tu
-20,21,"17
-",2012,Ekk Deewana Tha
-23,24,"24
-",2012,Jodi Breakers
-25,26,"2
-",2012,"London, Paris, New York"
-28,29,"9
-",2012,Kahaani
-30,31,"16
-",2012,Say Yes to Love
-33,34,"30
-",2012,Blood Money
-36,37,"5
-",2012,Housefull 2
-37,38,"13
-",2012,Bittoo Boss
-40,41,"20
-",2012,Hate Story
-42,43,"27
-",2012,Tezz
-44,45,"4
-",2012,Jannat 2
-48,49,"11
-",2012,Dangerous Ishq
-51,52,"18
-",2012,Department
-53,54,"25
-",2012,Arjun: The Warrior Prince
-58,59,"1
-",2012,Rowdy Rathore
-59,60,"8
-",2012,Shanghai
-60,61,"
-15
-
-",2012,Qasam Se Qasam Se
-61,62,"22
-",2012,Ferrari Ki Sawaari
-64,65,"29
-",2012,Maximum
-65,66,"6
-",2012,Bol Bachchan
-67,68,"13
-",2012,Cocktail
-68,69,"20
-",2012,Gattu
-71,72,"27
-",2012,Kyaa Super Kool Hain Hum
-74,75,"3
-",2012,Jism 2
-76,77,"8
-",2012,Gangs of Wasseypur – Part 2
-77,78,"10
-",2012,Paanch Ghantey Mien Paanch Crore
-78,79,"15
-",2012,Ek Tha Tiger
-79,80,"24
-",2012,Shirin Farhad Ki Toh Nikal Padi
-80,81,"31
-",2012,Joker
-84,85,"7
-",2012,Raaz 3: The Third Dimension
-86,87,"14
-",2012,Barfi!
-88,89,"21
-",2012,Heroine
-89,90,"28
-",2012,Kamaal Dhamaal Malamaal
-91,92,"5
-",2012,English Vinglish
-93,94,"12
-",2012,Aiyyaa
-98,99,"19
-",2012,Student of the Year
-99,100,"24
-",2012,Chakravyuh
-100,101,"26
-",2012,Ajab Gazabb Love
-102,103,"2
-",2012,Luv Shuv Tey Chicken Khurana
-107,108,"13
-",2012,Jab Tak Hai Jaan
-109,110,"30
-",2012,Talaash: The Answer Lies Within
-110,111,"7
-",2012,Khiladi 786
-111,112,"14
-",2012,Cigarette Ki Tarah
-112,113,"21
-",2012,Dabangg 2
+0,113,Dabangg 2,2012,Action/Comedy
+11,12,Thriller,2013,Milind Ukey
+12,13,Comedy,2013,Syed Noor
+13,14,Comedy,2013,Vishal Bhardwaj
+14,15,Thriller,2013,Rajeesh Kumar
+15,16,Drama,2013,Priya Krishnaswamy
+16,17,Romance/Crime,2013,Sudhir Mishra
+17,18,Action,2013,Ankush Bhatt
+18,19,Crime,2013,Aditya Om
+19,20,Action/Thriller,2013,Abbas-Mustan
+20,21,Romance,2013,Luv Ranjan
+21,22,Animation/Musical,2013,Rajiv S. Ruia
+23,24,Action,2013,Kamal Haasan
+24,25,Drama/Family,2013,Mahesh Kodiyal
+25,26,Drama,2013,Avinash Kumar Singh
+26,27,Drama/Comedy,2013,Neeraj Pandey
+27,28,"Drama/Dance
+",2013,Remo D'Souza
+28,29,Thriller,2013,Alok Shrivastava
+29,30,Comedy/Romance,2013,Vinnil Markan
+30,31,Thriller,2013,Vishesh Bhatt
+31,32,Drama,2013,Abhishek Kapoor
+32,33,Action,2013,Anand Kumar
+34,35,Romance/Thriller,2013,Arup Dutta
+35,36,Drama/Thriller,2013,Tigmanshu Dhulia
+36,37,Satire/Comedy,2013,Anshul Sharma
+37,38,Thriller,2013,Shantanu & Sheershak
+38,39,Comedy,2013,Ashima Chibber
+39,40,Comedy/Satire,2013,Subash Kapoor
+40,41,Action,2013,Priyadarshan
+41,42,Adventure,2013,"Shinjan Neogi, Abhishek Panchal"
+42,43,Action/Comedy,2013,Sajid Khan
+44,45,Comedy/Romance,2013,Rohan Sippy
+45,46,Action/Romance,2013,Dilip Ghosh
+46,47,Horror,2013,Kannan Iyer
+47,48,Musical romance,2013,Mohit Suri
+48,49,Thriller,2013,Rajesh Bachchani
+50,51,Anthology,2013,"Anurag Kashyap, Karan Johar, Zoya Akhtar, Dibakar Banerjee"
+51,52,Children/Animation,2013,Rajiv Chilaka
+52,53,Zombie comedy,2013,"Raj Nidimoru, Krishna D.K."
+53,54,Coming of age,2013,Sonam Nair
+54,55,Drama/Action,2013,Atul Sabharwal
+55,56,Romantic drama,2013,Amit Kasaria
+56,57,Drama,2013,Krishna Mishra
+57,58,Romance,2013,Prem Raj
+58,59,Romantic comedy,2013,Jyotin Goel
+59,60,Social,2013,Rajiv S. Ruia
+60,61,Romantic comedy,2013,Ayan Mukerji
+62,63,Comedy,2013,Mrigdeep Singh Lamba
+63,64,Thriller,2013,Suhail Tatari
+64,65,Romance,2013,Anand L. Rai
+65,66,Action,2013,Ashu Trikha
+66,67,Romantic thriller,2013,Susi Ganeshan
+67,68,Comedy/Thriller,2013,Rajkumar Gupta
+69,70,Action,2013,K. S. Ravikumar
+70,71,Biopic,2013,Rakeysh Omprakash Mehra
+71,72,Drama,2013,Raj Purohit
+72,73,Drama,2013,Ajay Bahl
+73,74,Comedy,2013,Amit Vats
+74,75,Rom-com,2013,Prabhudeva
+75,76,Action/Drama,2013,Nikhil Advani
+76,77,Avant-garde,2013,Anand Gandhi
+77,78,Romance/Drama,2013,Manish Tiwary
+78,79,Comedy,2013,Shashant Shah
+79,80,Romance,2013,Joe Rajan
+80,81,Erotic/Thriller,2013,Amit Saxena
+82,83,Comedy,2013,K. Rajesh
+83,84,Thriller/Drama,2013,Dinesh P. Bhonsle
+84,85,Romance,2013,Joy Mukherjee
+85,86,Comedy/Action,2013,Rohit Shetty
+86,87,Crime/Romance,2013,Milan Luthria
+87,88,Drama/Espionage thriller,2013,Shoojit Sircar
+88,89,Political thriller,2013,Prakash Jha
+90,91,Romance,2013,Maneesh Sharma
+91,92,Drama,2013,Richie Mehta
+92,93,Adult comedy,2013,Indra Kumar
+93,94,Thriller,2013,Ahishor Solomon
+94,95,Horror,2013,Ayush Raina
+95,96,Rom com/Action,2013,Rajkumar Santoshi
+96,97,Drama,2013,Ritesh Batra
+97,98,Thriller,2013,Gurmmeet Singh
+98,99,Suspense thriller,2013,Jaideep Chopra
+99,100,Psychological thriller/Romance,2013,Ashish R Shukla
+100,101,Drama,2013,Navin Batra
+102,103,Comedy,2013,Shuja Ali
+103,104,Drama,2013,Monish Kaushal
+104,105,Crime,2013,Aziz Sejawal
+105,106,Masala,2013,Anthony D'Souza
+106,107,Drama/Biography,2013,Hansal Mehta
+107,108,Political/Drama,2013,Babloo Seshadri
+108,109,Crime/Drama,2013,Apurv Bajpai
+109,110,Crime,2013,Ashish Tyagi
+110,111,Comedy/Thriller,2013,Saurabh Varma
+111,112,Romance,2013,Anish Khanna
+112,113,Comedy,2013,Shekhar Ghosh
+114,115,Crime,2013,Ram Gopal Varma
+115,116,Romance,2013,Vishwas Patil
+116,117,Romance/Drama,2013,Sanjay Leela Bhansali
+117,118,Romance/Comedy,2013,Punit Malhotra
+118,119,Action,2013,Anil Sharma
+119,120,Comedy/Crime/Romance,2013,Tigmanshu Dhulia
+121,122,Thriller/Comedy,2013,Kaizad Gustad
+122,123,Drama,2013,Gurmmet Singh
+123,124,Action,2013,Vijay Krishna Acharya
