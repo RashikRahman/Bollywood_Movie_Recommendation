@@ -1,0 +1,1914 @@
+Movie_ID,Title,Year,Genre
+34759,Aaghaaz ,2000,['thriller']
+34760,Aaj Ka Ravan,2000,['drama']
+34761,Anjaane,2000,['romance']
+34762,Anokha Moti,2000,['family']
+34763,Apradhi Kaun,2000,['thriller']
+34764,Astitva,2000,"['drama', ' social']"
+34765,Baaghi,2000,['action']
+34766,Badal,2000,"['action', ' drama']"
+34767,Bas Yaari Rakho,2000,"['comedy', ' drama']"
+34768,Bawandar,2000,['drama']
+34769,Beti No.1,2000,['comedy']
+34770,Bhai Thakur,2000,['action']
+34771,Bichhoo,2000,['action']
+34772,Billa No. 786,2000,['action']
+34773,Bulandi,2000,['drama']
+34774,Chal Mere Bhai,2000,['comedy']
+34775,Champion,2000,"['action', ' drama']"
+34776,Dahshat,2000,['horror']
+34777,Deewane,2000,"['action', ' romance']"
+34778,Dhai Akshar Prem Ke,2000,"['romance', ' drama']"
+34779,Dhadkan,2000,"['romance', ' drama']"
+34781,Dil Pe Mat Le Yaar,2000,['drama']
+34784,Dulhan Hum Le Jayenge,2000,"['comedy', ' romance']"
+34785,Fiza,2000,"['drama', ' family', ' thriller']"
+34786,Gaja Gamini,2000,['drama']
+34787,Gang,2000,['crime']
+34788,Ghaath,2000,['drama']
+34789,Hadh Kar Di Aapne,2000,"['comedy', ' romance']"
+34790,Hamara Dil Aapke Paas Hai,2000,['drama']
+34791,Har Dil Jo Pyar Karega,2000,"['comedy', ' drama', ' romance']"
+34793,Hera Pheri,2000,['comedy']
+34794,Hey Ram,2000,['drama']
+34795,Hum To Mohabbat Karega,2000,"['action', ' romance']"
+34796,Jallad No. 1,2000,['drama']
+34797,Jis Desh Mein Ganga Rehta Hain,2000,['drama']
+34798,Joru Ka Ghulam,2000,['drama']
+34799,Josh,2000,"['action', ' romance']"
+34800,Jung,2000,['drama']
+34801,Jungle,2000,['romance']
+34802,Kabrastan,2000,['horror']
+34803,Kahin Pyaar Na Ho Jaaye,2000,"['comedy', ' romance']"
+34804,Kaho Naa... Pyaar Hai,2000,"['romance', ' drama', ' musical']"
+34805,Kairee,2000,['drama']
+34806,Karobaar: The Business of Love,2000,['drama']
+34808,Khauff,2000,['drama']
+34809,Khiladi 420,2000,"['action', ' romance']"
+34810,Krodh,2000,['action']
+34811,Kunwara,2000,['comedy']
+34812,Kurukshetra,2000,"['action', ' romance']"
+34813,Kya Kehna,2000,"['romance', ' drama']"
+34814,Le Chal Apne Sang,2000,['romance']
+34816,Mela,2000,['drama']
+34817,Meri Jung Ka Elaan,2000,['drama']
+34818,Mission Kashmir,2000,"['drama', ' war', ' thriller']"
+34819,Mohabbatein,2000,"['drama', ' romance', ' musical', ' family']"
+34820,Nidaan,2000,['drama']
+34821,Papa the Great,2000,['family']
+34822,Phir Bhi Dil Hai Hindustani,2000,"['comedy', ' drama', ' romance', ' musical']"
+34824,Pukar,2000,['drama']
+34825,Raja Ko Rani Se Pyar Ho Gaya,2000,"['comedy', ' musical']"
+34826,Raju Chacha,2000,['comedy']
+34827,Refugee,2000,"['drama', ' romance']"
+34832,Shikari,2000,"['thriller', ' action', ' romance']"
+34836,Tarkieb,2000,"['suspense', ' thriller']"
+34837,Tera Jadoo Chal Gayaa,2000,['romance']
+34841,Abhay,2001,['thriller']
+34842,Aamdani Atthanni Kharcha Rupaiya,2001,['family drama']
+34843,Aashiq,2001,['action comedy']
+34844,Ajnabee,2001,"['thriller', ' suspense', ' crime']"
+34845,Aks,2001,"['thriller', ' horror']"
+34846,Albela,2001,['romance']
+34847,Aśoka,2001,['history']
+34848,Bas Itna Sa Khwaab Hai,2001,"['drama', ' romance', ' social']"
+34849,Bengal Tiger,2001,['action']
+34852,Chandni Bar,2001,['drama']
+34853,Chhupa Rustam: A Musical Thriller,2001,['thriller']
+34854,Chori Chori Chupke Chupke,2001,"['drama', ' romance', ' musical', ' social']"
+34855,Daman,2001,['drama']
+34857,Deewaanapan,2001,"['drama', ' romance']"
+34858,Dil Chahta Hai,2001,"['drama', ' comedy', ' romance', ' musical']"
+34859,Dil Ne Phir Yaad Kiya,2001,['romance']
+34861,Ehsaas: The Feeling,2001,['drama']
+34862,Ek Rishtaa: The Bond of Love,2001,['family drama']
+34863,Farz,2001,"['action', ' romance']"
+34864,Gadar: Ek Prem Katha,2001,"['drama', ' war', ' romance', ' action']"
+34865,Grahan,2001,['romance']
+34867,Hum Ho Gaye Aapke,2001,['romance']
+34868,Indian,2001,['action']
+34869,Ittefaq,2001,"['action', ' drama', ' thriller']"
+34870,Jodi No.1,2001,['comedy']
+34871,Kabhi Khushi Kabhie Gham...,2001,"['drama', ' romance', ' family']"
+34872,Kasam,2001,['action']
+34873,Kasoor,2001,['thriller']
+34874,Kuch Khatti Kuch Meethi,2001,"['comedy', ' drama']"
+34875,Kyo Kii Main Jhuth Nahin Bolta,2001,"['comedy', ' romance']"
+34876,Lagaan: Once Upon a Time in India,2001,"['drama', ' musical', ' social']"
+34877,Lajja,2001,"['drama', ' romance', ' musical', ' crime']"
+34878,Love Ke Liye Kuchh Bhi Karega,2001,['comedy']
+34881,Moksha,2001,['drama']
+34882,Mujhe Kucch Kehna Hai,2001,['comedy']
+34883,Mujhe Meri Biwi Se Bachaao,2001,"['comedy', ' family']"
+34884,Nayak,2001,['drama']
+34885,Officer,2001,['action']
+34886,One 2 Ka 4,2001,"['action', ' romance']"
+34887,Paagalpan,2001,['romance']
+34888,Pyaar Ishq Aur Mohabbat,2001,['romance']
+34889,Pyaar Tune Kya Kiya,2001,"['drama', ' romance', ' thriller']"
+34891,Rahul,2001,['drama']
+34892,Rehnaa Hai Terre Dil Mein,2001,['romance']
+34894,Style,2001,['romance']
+34896,Tera Mera Saath Rahen,2001,['drama']
+34897,Tum Bin,2001,['romance']
+34899,Yaadein,2001,"['romance', ' drama']"
+34900,Yeh Raaste Hain Pyaar Ke,2001,['drama']
+34901,Yeh Teraa Ghar Yeh Meraa Ghar,2001,['drama']
+34903,Zubeidaa,2001,['drama']
+34904,16 December,2002,['action']
+34905,23rd March 1931: Shaheed,2002,['historical drama']
+34906,Aankhen,2002,"['thriller', ' action']"
+34907,Aap Mujhe Achche Lagne Lage,2002,"['romance', ' drama']"
+34908,Ab Ke Baras,2002,"['romance', ' drama']"
+34909,Agni Varsha,2002,['historical']
+34910,Akhiyon Se Goli Maare,2002,['comedy']
+34911,Annarth,2002,"['action', ' thriller']"
+34912,Ansh: The Deadly Part,2002,"['action', ' thriller']"
+34913,Awara Paagal Deewana,2002,"['action', ' comedy']"
+34914,Baaja,2002,"[""children's""]"
+34915,Be-Lagaam,2002,['action']
+34916,Badhaai Ho Badhaai,2002,"['comedy', ' drama']"
+34919,Chalo Ishq Ladaaye,2002,['comedy']
+34920,Chor Machaaye Shor,2002,"['comedy', ' romance', ' crime']"
+34921,Company,2002,"['crime', ' drama']"
+34922,Deewangee,2002,['thriller']
+34924,Devdas,2002,"['romance', ' drama', ' musical', ' historical']"
+34925,Dil Hai Tumhaara,2002,"['family', ' romance', ' drama']"
+34926,Dil Vil Pyar Vyar,2002,"['romance', ' drama']"
+34927,Ek Chhotisi Love Story,2002,['erotic']
+34929,Filhaal,2002,['drama']
+34931,Gunaah,2002,"['thriller', ' romance']"
+34932,Haan Maine Bhi Pyaar Kiya,2002,"['drama', ' romance']"
+34933,Hathyar,2002,['drama']
+34934,Hum Kisise Kum Nahin,2002,"['action', ' comedy']"
+34935,Hum Pyar Tumhi Se Kar Baithe,2002,['romance']
+34936,Hum Tumhare Hain Sanam,2002,"['drama', ' romance']"
+34937,Humraaz,2002,"['thriller', ' romance', ' musical']"
+34938,Jaani Dushman: Ek Anokhi Kahani,2002,['fantasy']
+34940,Jeena Sirf Merre Liye,2002,['romance']
+34941,Kaante,2002,"['action', ' thriller']"
+34943,Karz: The Burden of Truth,2002,"['action', ' thriller']"
+34945,Kitne Door Kitne Paas,2002,"['romance', ' drama', ' comedy']"
+34946,Koi Mere Dil Se Poochhe,2002,"['drama', ' romance', ' social']"
+34948,Kuch Tum Kaho Kuch Hum Kahein,2002,['romance']
+34950,Kyaa Dil Ne Kahaa,2002,['romance']
+34952,Maa Tujhhe Salaam,2002,['drama']
+34953,Maine Dil Tujhko Diya,2002,"['action', ' romance']"
+34955,Maseeha,2002,['action']
+34956,Mere Yaar Ki Shaadi Hai,2002,['romance']
+34957,"Mitr, My Friend",2002,['drama']
+34959,Mujhse Dosti Karoge!,2002,"['romance', ' drama', ' comedy', ' musical']"
+34961,Na Tum Jaano Na Hum,2002,"['romance', ' drama']"
+34963,Om Jai Jagadish,2002,"['family', ' drama', ' social']"
+34965,Pyaar Diwana Hota Hai,2002,['romance']
+34967,Pyaasa,2002,"['action', ' crime']"
+34968,Raaz,2002,"['horror', ' thriller', ' romance', ' musical']"
+34969,Rishtey,2002,"['drama', ' family']"
+34970,Road,2002,['thriller']
+34971,Saathiya,2002,"['drama', ' romance', ' social', ' musical']"
+34972,Shaheed-E-Azam,2002,"['historical', ' drama']"
+34973,Shakti - The Power,2002,['drama']
+34974,Shararat,2002,"['comedy', ' drama']"
+34976,Sur: The Melody of Life,2002,['musical']
+34977,The Legend of Bhagat Singh,2002,"['historical', ' drama']"
+34978,Tumko Na Bhool Paayenge,2002,['drama']
+34982,Yeh Hai Jalwa,2002,['comedy']
+34984,Yeh Kya Ho Raha Hai?,2002,"['comedy', ' romance']"
+34987,3 Deewarein,2003,['drama']
+34988,88 Antop Hill,2003,['thriller']
+34991,Aapko Pehle Bhi Kahin Dekha Hai,2003,['romance']
+34993,Andaaz,2003,['romance']
+34994,Armaan,2003,"['drama', ' family']"
+34996,Baaz: A Bird in Danger,2003,['thriller']
+34997,Baghban,2003,"['drama', ' family']"
+34998,Bas Yun Hi,2003,['drama']
+34999,Basti,2003,['action']
+35000,Bhoot,2003,['horror']
+35001,Boom,2003,['thriller']
+35004,Calcutta Mail,2003,['drama']
+35005,Chalte Chalte,2003,"['drama', ' romance', ' comedy', ' musical']"
+35006,Chori Chori,2003,['romance']
+35008,Chura Liyaa Hai Tumne,2003,"['action', ' drama', ' romance', ' thriller']"
+35011,Darna Mana Hai,2003,"['horror', ' thriller']"
+35014,Dil Ka Rishta,2003,"['drama', ' romance']"
+35015,Dil Pardesi Ho Gayaa,2003,['romance']
+35016,Dum,2003,"['action', ' drama', ' romance']"
+35018,Ek Aur Ek Gyarah,2003,['comedy']
+35020,Escape from Taliban,2003,['drama']
+35022,Footpath,2003,['drama']
+35024,Gangaajal,2003,"['drama', ' social']"
+35025,Green Card Fever,2003,['drama']
+35026,Haasil,2003,['drama']
+35027,Hawa,2003,['horror']
+35029,The Hero: Love Story of a Spy,2003,"['drama', ' action', ' thriller']"
+35031,Hungama,2003,['comedy']
+35033,Inteha,2003,"['drama', ' thriller']"
+35034,Ishq Vishk,2003,['romance']
+35035,Jaal: The Trap,2003,"['action', ' romance']"
+35037,Janasheen,2003,['thriller']
+35038,Jhankaar Beats,2003,"['drama', ' musical']"
+35039,Jism,2003,"['drama', ' romance', ' thriller']"
+35046,Kal Ho Naa Ho,2003,"['drama', ' romance', ' comedy', ' family', ' musical', ' social']"
+35047,Kash Aap Hamare Hote,2003,['romance']
+35049,Khanjar: The Knife,2003,['action']
+35050,Khel – No Ordinary Game,2003,['thriller']
+35051,Khushi,2003,['romance']
+35052,Khwahish,2003,['drama']
+35053,Koi... Mil Gaya,2003,"['romance', ' fantasy', ' musical']"
+35054,Kucch To Hai,2003,['thriller']
+35055,Kuch Naa Kaho,2003,"['drama', ' romance', ' musical']"
+35058,LOC: Kargil,2003,"['war', ' drama', ' historical']"
+35061,Main Madhuri Dixit Banna Chahti Hoon,2003,['comedy']
+35062,Main Prem Ki Diwani Hoon,2003,"['romance', ' drama', ' comedy']"
+35064,Matrubhoomi,2003,['drama']
+35068,Mumbai Se Aaya Mera Dost,2003,['drama']
+35069,Munna Bhai M.B.B.S.,2003,"['comedy', ' social', ' musical']"
+35075,Out of Control,2003,"['comedy', ' romance']"
+35077,Parwana,2003,"['action', ' drama', ' thriller']"
+35080,Pinjar,2003,"['drama', ' social']"
+35082,Praan Jaye Par Shaan Na Jaye,2003,['comedy']
+35083,Qayamat: City Under Threat,2003,['thriller']
+35090,Saaya,2003,['drama']
+35092,Samay: When Time Strikes,2003,['thriller']
+35095,Satta,2003,"['drama', ' social']"
+35104,Talaash: The Hunt Begins...,2003,['thriller']
+35107,Tere Naam,2003,"['drama', ' romance']"
+35109,Tujhe Meri Kasam,2003,['romance']
+35113,Xcuse Me,2003,['comedy']
+35115,Zameen,2003,['thriller']
+35116,Aabra Ka Daabra,2004,['fantasy']
+35117,Aan: Men at Work,2004,['action']
+35118,Ab... Bas!,2004,['adult']
+35119,Ab Tumhare Hawale Watan Saathiyo,2004,"['war', ' drama']"
+35120,Aetbaar,2004,['thriller']
+35122,Aitraaz,2004,"['drama', ' romance', ' thriller']"
+35123,Asambhav,2004,"['mystery', ' thriller']"
+35124,Banana Brothers,2004,['comedy']
+35125,Bardaasht,2004,"['action', ' drama', ' thriller']"
+35126,Chameli,2004,['drama']
+35127,Chand Bujh Gaya,2004,['romance']
+35128,Charas,2004,['action']
+35129,Deewaar,2004,['drama']
+35130,Dev,2004,['drama']
+35131,Dhoom,2004,"['thriller', ' action']"
+35132,Dil Bechara Pyaar Ka Maara,2004,['comedy']
+35133,Dil Maange More,2004,"['romance', ' comedy']"
+35134,Dil Ne Jise Apna Kahaa,2004,"['drama', ' romance']"
+35135,Dobara,2004,['drama']
+35136,Dukaan,2004,['adult romance']
+35137,Ek Se Badhkar Ek,2004,['comedy']
+35138,Ek Hasina Thi,2004,"['thriller', ' drama']"
+35139,Fida,2004,"['drama', ' romance', ' thriller']"
+35140,Garv,2004,['drama']
+35141,Gayab,2004,"['fantasy', ' thriller']"
+35142,Girlfriend,2004,"['drama', ' romance']"
+35144,Hava Aney Dey,2004,['drama']
+35145,Hawas,2004,['erotic romance']
+35146,Hulchul,2004,"['comedy', ' drama', ' romance', ' family']"
+35147,Hum Tum,2004,"['comedy', ' romance', ' drama', ' musical']"
+35148,Hyderabad Blues 2,2004,['drama']
+35149,I Proud to Be an Indian,2004,['action']
+35150,Insaaf: The Justice,2004,['action']
+35151,Inteqam: The Perfect Game,2004,['action']
+35152,Ishq Hai Tumse,2004,['drama']
+35153,Julie,2004,['adult drama']
+35154,Kaun Hai Jo Sapno Mein Aaya,2004,['romance']
+35155,Kaya Taran,2004,['drama']
+35156,Khakee,2004,"['action', ' thriller']"
+35157,Khamosh Pani,2004,['drama']
+35158,King of Bollywood,2004,['comedy']
+35159,Kis Kis Ki Kismat,2004,['comedy']
+35160,Kismat,2004,['thriller']
+35161,Kiss Kis Ko,2004,['adult comedy']
+35162,Krishna Cottage,2004,['thriller']
+35163,Kyun! Ho Gaya Na...,2004,"['romance', ' drama', ' comedy']"
+35164,Lakeer – Forbidden Lines,2004,"['action', ' drama', ' romance']"
+35165,Lakshya,2004,"['war', ' drama', ' action', ' romance']"
+35166,Let's Enjoy,2004,['adult thriller']
+35167,Madhoshi,2004,"['drama', ' romance', ' thriller']"
+35168,Main Hoon Na,2004,"['action', ' musical', ' drama', ' comedy']"
+35169,Maqbool,2004,"['mystery', ' drama']"
+35170,Masti,2004,['comedy']
+35171,Meenaxi: A Tale of Three Cities,2004,"['romance', ' musical drama']"
+35172,Meri Biwi Ka Jawaab Nahin,2004,"['action', ' comedy', ' romance']"
+35173,Mughal-e-Azam (Colorized Version),2004,['drama']
+35174,Mujhse Shaadi Karogi,2004,"['comedy', ' romance', ' musical']"
+35175,Murder,2004,"['thriller', ' romance']"
+35176,Musafir,2004,['thriller']
+35177,Muskaan,2004,"['romance', ' drama']"
+35178,Naach,2004,['drama']
+35180,Nothing but Life,2004,['drama']
+35181,Paap,2004,['drama']
+35182,Paisa Vasool,2004,['black comedy']
+35183,Phir Milenge,2004,"['drama', ' social']"
+35184,Plan,2004,['action']
+35185,Police Force: An Inside Story,2004,['action']
+35187,Raincoat,2004,['drama']
+35188,Rakht,2004,['horror']
+35189,Rok Sako To Rok Lo,2004,['sports comedy']
+35190,Rudraksh,2004,['thriller']
+35191,Run,2004,"['action', ' drama', ' romance']"
+35192,Shaadi Ka Laddoo,2004,['comedy']
+35193,Shart: The Challenge,2004,"['action', ' drama']"
+35194,Sheen,2004,['romance']
+35195,Shikhaar,2004,['drama']
+35196,Shukriya: Till Death Do Us Apart,2004,['drama']
+35197,Silence Please...The Dressing Room,2004,['thriller']
+35198,Stop!,2004,"['romance', ' drama']"
+35199,Suno Sasurjee,2004,"['romantic', ' comedy']"
+35200,Swades,2004,"['drama', ' social']"
+35201,Taarzan: The Wonder Car,2004,['fantasy thriller']
+35202,Thoda Tum Badlo Thoda Hum,2004,['romance']
+35203,Tumsa Nahin Dekha: A Love Story,2004,['romance']
+35204,Uff Kya Jaadoo Mohabbat Hai,2004,['romance']
+35205,Vaastu Shastra,2004,['horror']
+35206,Veer-Zaara,2004,"['drama', ' romance', ' family', ' musical']"
+35207,Wajahh: A Reason to Kill,2004,['thriller']
+35208,Where's the Party Yaar?,2004,['comedy']
+35209,Woh,2004,['thriller']
+35210,Yeh Lamhe Judaai Ke,2004,['drama']
+35211,Yehi Hai Zindagi,2004,['drama']
+35212,Yuva,2004,"['drama', ' action']"
+35213,7½ Phere,2005,['comedy']
+35214,"99.9 FM,",2005,"['crime ', ' thriller']"
+35215,Aashiq Banaya Aapne,2005,"['romance', ' drama']"
+35218,Apaharan,2005,"['drama', ' action']"
+35219,Bachke Rehna Re Baba,2005,['comedy']
+35220,Barsaat,2005,"['romance', ' drama', ' family']"
+35221,Bewafaa,2005,"['drama', ' romance']"
+35222,Bhagmati,2005,['romance']
+35223,Bhola in Bollywood,2005,['comedy']
+35224,Black,2005,"['drama', ' social']"
+35225,Blackmail,2005,"['thriller', ' drama']"
+35226,Bluffmaster!,2005,['comedy']
+35227,Brides Wanted,2005,['comedy']
+35228,Bullet: Ek Dhamaka,2005,['action']
+35229,Bunty Aur Babli,2005,"['comedy', ' crime', ' romance', ' musical']"
+35230,Chaahat – Ek Nasha,2005,['romance']
+35231,Chand Sa Roshan Chehra,2005,['romance']
+35233,Chehraa,2005,['thriller']
+35234,Chetna: The Excitement,2005,['erotic drama']
+35235,Chocolate,2005,"['action', ' thriller', ' suspense']"
+35236,Chor Mandi,2005,['comedy']
+35237,Classic – Dance of Love,2005,['erotic thriller']
+35238,D,2005,"['crime', ' drama']"
+35239,Dansh,2005,['drama']
+35240,Deewane Huye Paagal,2005,['romantic comedy']
+35241,Dil Jo Bhi Kahey...,2005,['family drama']
+35242,Dosti: Friends Forever,2005,"['drama', ' romance']"
+35245,Dus,2005,"['action', ' thriller']"
+35246,Ek Ajnabee,2005,['thriller']
+35247,Ek Khiladi Ek Haseena,2005,['thriller']
+35248,Elaan,2005,"['action', ' drama']"
+35249,Fareb,2005,['thriller']
+35251,Fun – Can Be Dangerous Sometimes,2005,['erotic drama']
+35252,Garam Masala,2005,['comedy']
+35254,Hazaaron Khwaishein Aisi,2005,['drama']
+35255,Home Delivery,2005,['comedy']
+35256,Hum Dum,2005,['romance']
+35257,Insan,2005,"['action', ' thriller']"
+35258,Iqbal,2005,"['sports', ' drama', ' social']"
+35259,Jackpot,2005,"['erotic', ' crime']"
+35260,Jai Chiranjeeva,2005,['drama']
+35261,Jalwa - Fun in Love,2005,['erotic romance']
+35262,James,2005,['action']
+35263,Jo Bole So Nihaal,2005,"['action', ' comedy']"
+35264,Jurm,2005,['thriller']
+35265,Kaal,2005,"['horror', ' thriller']"
+35266,Kalyug,2005,['drama']
+35267,Karam,2005,['thriller']
+35269,Khamoshh... Khauff Ki Raat,2005,['thriller']
+35270,Kisna: The Warrior Poet,2005,"['drama', ' historical']"
+35271,Koi Aap Sa,2005,"['drama', ' romance']"
+35273,Kuchh Meetha Ho Jaye,2005,"['comedy', ' drama', ' romance']"
+35274,Kyaa Kool Hai Hum,2005,['comedy']
+35275,Kyon Ki,2005,"['drama', ' romance']"
+35276,Lucky: No Time for Love,2005,"['romance', ' musical']"
+35277,Main Aisa Hi Hoon,2005,['drama']
+35279,Maine Gandhi Ko Nahin Mara,2005,"['drama', ' social']"
+35280,Maine Pyaar Kyun Kiya?,2005,['comedy']
+35281,Mangal Pandey: The Rising,2005,"['drama', ' historical']"
+35282,Mashooka,2005,['erotic thriller']
+35284,Men Not Allowed,2005,['romance']
+35286,Mr Ya Miss,2005,['comedy']
+35287,Mr Prime Minister,2005,['drama']
+35289,Mumbai Godfather,2005,['drama']
+35290,My Brother... Nikhil,2005,"['drama', ' social']"
+35291,My Wife's Murder,2005,"['drama', ' thriller']"
+35292,Naam Gum Jaayega,2005,['romance']
+35293,Naina,2005,"['horror', ' thriller']"
+35294,Neal 'n' Nikki,2005,"['comedy', ' romance']"
+35296,No Entry,2005,['comedy']
+35297,Padmashree Laloo Prasad Yadav,2005,['comedy']
+35298,Page 3,2005,"['drama', ' social']"
+35299,Pehchaan: The Face of Truth,2005,['drama']
+35300,Paheli,2005,"['fantasy', ' romance', ' musical']"
+35301,Parineeta,2005,['drama']
+35302,Pyaar Mein Twist,2005,"['drama', ' romance']"
+35305,Rog,2005,"['drama', ' thriller']"
+35307,Salaam Namaste,2005,"['romance', ' comedy', ' drama', ' social']"
+35308,Sarkar,2005,"['crime', ' drama']"
+35311,Shaadi No. 1,2005,"['comedy', ' romance']"
+35312,Shabd,2005,['drama']
+35316,Shikhar,2005,['drama']
+35317,Silsiilay,2005,['romance']
+35319,Socha Na Tha,2005,"['romance', ' comedy']"
+35321,Taj Mahal: An Eternal Love Story,2005,"['history', ' epic', ' romance']"
+35322,Tango Charlie,2005,"['war', ' drama']"
+35323,Tezaab,2005,['erotic']
+35324,The Film,2005,['thriller']
+35328,Vaada,2005,['thriller']
+35329,Vaah! Life Ho Toh Aisi!,2005,"['fantasy', ' comedy']"
+35331,Viruddh... Family Comes First,2005,['drama']
+35332,Waqt: The Race Against Time,2005,['drama']
+35333,Yahaan,2005,['romance']
+35334,Yakeen,2005,['drama']
+35335,Zameer: The Fire Within,2005,['drama']
+35336,Zeher,2005,"['drama', ' thriller']"
+35337,36 China Town,2006,"['thriller', ' mystery']"
+35338,Aap Ki Khatir,2006,"['comedy', ' romance', ' social']"
+35339,Aatma,2006,['horror']
+35341,Ahista Ahista,2006,"['drama', ' romance']"
+35342,Aisa Kyon Hota Hai?,2006,['drama']
+35343,Aksar,2006,['thriller']
+35344,Alag,2006,['drama']
+35346,Ankahee,2006,"['drama', ' romance', ' crime']"
+35347,Anthony Kaun Hai?,2006,"['comedy', ' thriller']"
+35348,Apna Sapna Money Money,2006,['comedy']
+35349,Aryan: Unbreakable,2006,"['action', ' sports', ' romance']"
+35350,Baabul,2006,"['drama', ' romance', ' family', ' social']"
+35351,Banaras,2006,"['drama', ' social']"
+35353,Being Cyrus,2006,"['drama', ' comedy']"
+35354,Bhagam Bhag,2006,"['comedy', ' musical']"
+35355,Bhoot Unkle,2006,['comedy']
+35357,Chingaari,2006,"['drama', ' social']"
+35358,Chup Chup Ke,2006,"['comedy', ' romance']"
+35359,Corporate,2006,"['drama', ' thriller', ' business']"
+35360,Darna Zaroori Hai,2006,['horror']
+35361,Darwaaza Bandh Rakho,2006,"['comedy', ' crime']"
+35363,Devaki,2006,['drama']
+35364,Dharti Kahe Pukar Ke,2006,['drama']
+35365,Dhoom 2,2006,"['thriller', ' action', ' romance', ' musical']"
+35366,Dil Diya Hai,2006,['thriller']
+35367,Don,2006,"['thriller', ' action', ' drama']"
+35368,Dor,2006,"['drama', ' social']"
+35372,Family,2006,"['drama', ' thriller']"
+35373,Fanaa,2006,"['drama', ' romance', ' thriller', ' musical']"
+35374,Fight Club – Members Only,2006,"['action', ' thriller']"
+35375,Gangster,2006,"['drama', ' romance', ' thriller', ' musical']"
+35376,Golmaal: Fun Unlimited,2006,['comedy']
+35377,Haseena,2006,"['thriller', ' comedy']"
+35378,Holiday,2006,['romance']
+35379,Humko Deewana Kar Gaye,2006,"['romance', ' drama', ' musical']"
+35380,Humko Tumse Pyaar Hai,2006,"['drama', ' romance']"
+35381,Iqraar by Chance,2006,"['action', ' drama']"
+35382,I See You,2006,"['drama', ' romance', ' social']"
+35383,Jaane Hoga Kya,2006,"['supensene', ' thriller', ' sci-fi']"
+35386,Jaan-E-Mann,2006,"['drama', ' romance', ' musical', ' comedy']"
+35387,Jawani Diwani,2006,"['comedy', ' adult']"
+35388,Jigyaasa,2006,"['social', ' adult']"
+35389,Kabul Express,2006,"['drama', ' thriller', ' war']"
+35390,Kabhi Alvida Naa Kehna,2006,"['drama', ' romance', ' musical', ' comedy', ' family', ' social']"
+35391,Khosla Ka Ghosla,2006,['comedy']
+35393,Krrish,2006,"['superhero', ' action', ' fantasy', ' romance', ' musical']"
+35394,Kudiyon Ka Hai Zamana,2006,['comedy']
+35396,Lage Raho Munna Bhai,2006,"['comedy', ' social', ' musical']"
+35397,Love Ke Chakkar Mein,2006,"['romance', ' comedy']"
+35399,Malamaal Weekly,2006,['comedy']
+35400,Mere Jeevan Saathi,2006,"['drama', ' romance']"
+35405,Naksha,2006,"['thriller', ' fantasy']"
+35406,Omkara,2006,"['drama', ' social', ' action']"
+35407,Phir Hera Pheri,2006,['comedy']
+35409,Pyaar Ke Side Effects,2006,"['comedy', ' romance']"
+35410,Pyare Mohan,2006,['comedy']
+35412,Rang De Basanti,2006,"['drama', ' patriotic', ' social']"
+35414,Rocky,2006,"['action', ' romance']"
+35415,Saawan... The Love Season,2006,"['drama', ' romance']"
+35416,Sacred Evil – A True Story,2006,"['horror', ' thriller']"
+35418,Sandwich,2006,['comedy']
+35419,Sarhad Paar,2006,['drama']
+35420,Shaadi Karke Phas Gaya Yaar,2006,"['drama', ' romance']"
+35421,Shaadi Se Pehle,2006,"['comedy', ' romance']"
+35424,Souten: The Other Woman,2006,['drama']
+35427,Tathastu,2006,"['drama', ' family']"
+35428,Taxi No. 9211,2006,"['social', ' thriller']"
+35429,Teesri Aankh: The Hidden Camera,2006,"['action', ' thriller']"
+35431,The Real Dream Girls,2006,['b-grade']
+35432,Tom Dick And Harry,2006,['comedy']
+35434,Umrao Jaan,2006,"['drama', ' romance', ' social', ' historical']"
+35437,Vivah,2006,"['romance', ' drama']"
+35439,Woh Lamhe...,2006,"['drama', ' romance', ' social']"
+35440,Yun Hota Toh Kya Hota,2006,['drama']
+35441,Zinda,2006,['thriller']
+35442,Zindaggi Rocks,2006,['drama']
+35443,1971,2007,['war']
+35446,Aag,2007,"['action', ' thriller']"
+35447,Aaja Nachle,2007,['musical']
+35448,Aap Kaa Surroor,2007,"['drama', ' thriller', ' romance']"
+35449,Aggar,2007,"['drama', ' thriller']"
+35450,Anjaam,2007,['thriller']
+35451,Anwar,2007,['drama']
+35453,Apne,2007,"['family', ' drama', ' sports']"
+35455,Awarapan,2007,"['action', ' drama']"
+35456,Bal Ganesh,2007,['mythological']
+35457,Benaam,2007,['action']
+35458,Bheja Fry,2007,['comedy']
+35459,Bhool Bhulaiyaa,2007,"['mystery', ' thriller', ' comedy']"
+35460,Bhram,2007,['thriller']
+35461,Big Brother,2007,"['action', ' drama', ' romance', ' crime']"
+35462,Black Friday,2007,"['crime fiction', ' drama', ' historical']"
+35463,Blood Brothers,2007,['short film']
+35465,Bombay to Goa ,2007,['comedy']
+35466,Buddha Mar Gaya,2007,['comedy']
+35467,Cash,2007,['thriller']
+35468,Chak De! India,2007,['sports']
+35469,Chanchal,2007,"['drama', ' musical']"
+35470,Cheeni Kum,2007,"['romance', ' comedy', ' drama']"
+35471,Chhodon Naa Yaar,2007,['horror']
+35472,Chooriyan,2007,"['family', ' drama']"
+35473,Cocktail: The Deadly Combination,2007,['thriller']
+35474,Darling,2007,"['thriller', ' horror', ' romance', ' mystery']"
+35476,Dhamaal,2007,['comedy']
+35477,Goal,2007,['sports']
+35480,Dhol,2007,['comedy']
+35482,Don't Stop Dreaming,2007,['drama']
+35483,Dus Kahaniyaan,2007,['drama']
+35485,Eklavya: The Royal Guard,2007,['drama']
+35487,Fool & Final,2007,"['action', ' comedy', ' romance', ' musical']"
+35488,"Gandhi, My Father",2007,['drama']
+35489,Gangotri,2007,['drama']
+35490,Gauri: The Unborn,2007,['horror']
+35492,"Good Boy, Bad Boy",2007,['comedy']
+35493,Guru,2007,"['drama', ' romance']"
+35494,Har Pal,2007,['romance']
+35495,Hastey Hastey,2007,['comedy']
+35496,Hattrick,2007,['comedy']
+35497,Heyy Babyy,2007,"['comedy', ' drama', ' romance']"
+35498,Honeymoon Travels Pvt. Ltd.,2007,"['comedy', ' drama', ' romance']"
+35499,Jab We Met,2007,"['romance', ' comedy']"
+35500,Jahan Jaaeyega Hamen Paaeyega,2007,['comedy']
+35501,Jhoom Barabar Jhoom,2007,"['romance', ' comedy']"
+35502,Johnny Gaddaar,2007,['thriller']
+35503,Just Married,2007,"['drama', ' romance', ' social', ' comedy']"
+35504,Kaafila,2007,"['action', ' patriotic']"
+35505,Khoya Khoya Chand,2007,"['romance', ' drama']"
+35506,Kya Love Story Hai,2007,['romance']
+35507,Laaga Chunari Mein Daag,2007,['drama']
+35508,Life in a... Metro,2007,['drama']
+35509,Life Mein Kabhie Kabhiee,2007,['thriller']
+35510,Loins of Punjab Presents,2007,"['musical', ' drama']"
+35511,Manorama Six Feet Under,2007,['thriller']
+35512,Marigold,2007,['romance |']
+35513,MP3: Mera Pehla Pehla Pyaar,2007,['romance']
+35515,My Bollywood Bride,2007,['romance']
+35516,Namastey London,2007,"['romance', ' comedy', ' drama', ' social']"
+35517,The Namesake,2007,['drama']
+35518,Nanhe Jaisalmer,2007,['drama']
+35519,Naqaab,2007,['thriller']
+35520,Nehlle Pe Dehlla,2007,['comedy']
+35521,Nishabd,2007,['drama']
+35522,No Smoking,2007,"['drama', ' thriller']"
+35523,Oh My Anand,2007,['comedy']
+35524,Om Shanti Om,2007,"['action', ' romance', ' comedy', ' drama']"
+35525,Partner,2007,"['comedy', ' romance']"
+35526,Raqeeb,2007,['romance']
+35527,Red: The Dark Side,2007,['thriller']
+35528,Red Swastik,2007,['thriller']
+35529,Risk,2007,"['action', ' drama']"
+35530,Salaam-e-Ishq: A Tribute to Love,2007,['romance']
+35531,Saawariya,2007,"['drama', ' romance']"
+35534,Say Salaam India,2007,['cricket']
+35535,Shakalaka Boom Boom,2007,"['drama', ' social', ' musical', ' romance']"
+35536,Shootout at Lokhandwala,2007,"['action', ' crime', ' drama']"
+35538,Speed,2007,['thriller']
+35541,Swami,2007,['drama']
+35542,Ta Ra Rum Pum,2007,"['romance', ' drama', ' social']"
+35543,Taare Zameen Par,2007,['drama']
+35544,Traffic Signal,2007,['drama']
+35546,Victoria No. 203,2007,['comedy']
+35547,Welcome,2007,['comedy']
+35549,Zamaanat,2007,['drama']
+35560,Humne Jeena Seekh Liya,2008,['comedy']
+35561,Rama Rama Kya Hai Dramaa?,2008,['comedy']
+35562,Halla Bol,2008,['social']
+35563,Bombay to Bangkok,2008,"['comedy', ' drama', ' romance']"
+35565,Sunday,2008,"['action', ' comedy']"
+35566,Superstar,2008,['drama']
+35567,Jodhaa Akbar,2008,"['history', ' romance']"
+35568,Black & White,2008,"['social', ' drama', ' history']"
+35569,Race,2008,"['crime', ' thriller']"
+35570,One Two Three,2008,"['comedy', ' drama']"
+35571,Shaurya,2008,['drama']
+35572,Krazzy 4,2008,['comedy']
+35573,U Me Aur Hum,2008,['romance']
+35574,Pehli Nazar Ka Pyaar,2008,['romance']
+35575,Sirf,2008,"['drama', ' romance']"
+35576,Tashan,2008,"['action', ' romance']"
+35577,Mr. Black Mr. White,2008,['comedy']
+35578,Anamika,2008,['thriller']
+35579,Jimmy,2008,"['drama', ' action', ' crime', ' thriller', ' romance']"
+35580,Bhoothnath,2008,"['comedy', ' drama', ' fantasy']"
+35581,Jannat,2008,"['drama', ' romance']"
+35582,Don Muthu Swami,2008,['comedy']
+35583,Ghatothkach,2008,['fantasy']
+35584,Woodstock Villa,2008,['thriller']
+35585,Aamir,2008,"['drama', ' thriller']"
+35586,Sarkar Raj,2008,"['action', ' crime', ' drama', ' thriller']"
+35587,Mere Baap Pehle Aap,2008,['comedy']
+35589,De Taali,2008,"['comedy', ' romance']"
+35590,Haal-e-Dil,2008,"['drama', ' romance']"
+35591,Thoda Pyaar Thoda Magic,2008,"['drama', ' romance', ' fantasy']"
+35592,Thodi Life Thoda Magic,2008,['drama']
+35593,Via Darjeeling,2008,"['drama', ' mystery', ' thriller']"
+35594,Jaane Tu... Ya Jaane Na,2008,['romance']
+35595,Love Story 2050,2008,"['drama', ' musical', ' romance']"
+35596,Mehbooba,2008,['romance']
+35597,Kismat Konnection,2008,"['comedy', ' drama', ' romance']"
+35598,Contract,2008,"['thriler', ' spy']"
+35599,Mission Istaanbul,2008,['adventure']
+35600,Money Hai Toh Honey Hai,2008,"['comedy', ' drama', ' romance']"
+35601,Ugly Aur Pagli,2008,['comedy']
+35603,Singh Is Kinng,2008,"['action', ' comedy', ' crime', ' romance']"
+35604,Bachna Ae Haseeno,2008,"['comedy', ' drama', ' romance']"
+35605,God Tussi Great Ho,2008,"['comedy', ' romance']"
+35606,Phoonk,2008,['horror']
+35608,Maan Gaye Mughal-e-Azam,2008,['comedy']
+35609,Rock On!!,2008,"['drama', ' romance', ' musical']"
+35610,C Kkompany,2008,['comedy']
+35611,Chamku,2008,"['musical', ' romance', ' thriller']"
+35612,Mukhbiir,2008,['thriller']
+35613,A Wednesday!,2008,"['drama', ' thriller']"
+35614,Tahaan,2008,"['adventure', ' drama']"
+35615,1920,2008,"['horror', ' mystery', ' romance', ' thriller']"
+35616,The Last Lear,2008,"['biography', ' drama']"
+35617,Welcome to Sajjanpur,2008,"['comedy', ' drama']"
+35618,Saas Bahu Aur Sensex,2008,['comedy']
+35619,Hari Puttar: A Comedy of Terrors,2008,['comedy']
+35620,Kidnap,2008,"['crime', ' thriller']"
+35621,Drona,2008,"['superhero', ' action', ' adventure', ' fantasy']"
+35622,Hello,2008,"['drama', ' romance']"
+35623,Karzzzz,2008,"['action', ' romance']"
+35624,Heroes,2008,['drama']
+35625,Roadside Romeo,2008,"['animation', ' family', ' romance']"
+35626,Golmaal Returns,2008,['comedy']
+35627,Fashion,2008,"['drama', ' romance']"
+35628,EMI - Liya Hai Toh Chukana Parega,2008,"['comedy', ' social']"
+35629,Ek Vivaah... Aisa Bhi,2008,['drama']
+35630,Dostana,2008,['comedy']
+35631,Dasvidaniya,2008,"['comedy', ' drama', ' musical', ' romance']"
+35632,Deshdrohi,2008,['politics']
+35633,Yuvvraaj,2008,"['musical', ' drama', ' romance', ' family']"
+35634,Gumnaam – The Mystery,2008,"['thriller', ' mystery']"
+35635,Oye Lucky! Lucky Oye!,2008,"['comedy', ' drama']"
+35636,Sorry Bhai!,2008,['romance']
+35637,Maharathi,2008,['thriller']
+35638,Dil Kabaddi,2008,"['comedy', ' romance']"
+35639,Meerabai Not Out,2008,['drama']
+35640,"Oh, My God",2008,['comedy']
+35641,Rab Ne Bana Di Jodi,2008,['romance']
+35642,Wafaa,2008,"['romance', ' drama', ' romance']"
+35643,Ghajini,2008,"['action', ' drama', ' mystery', ' romance', ' thriller']"
+35644,Jumbo,2008,['animation']
+35655,Chandni Chowk to China,2009,"['action', ' comedy']"
+35656,Aasma: The Sky Is the Limit,2009,['drama']
+35657,Raaz: The Mystery Continues,2009,['horror']
+35658,Luck by Chance,2009,['drama']
+35659,Victory,2009,['sports']
+35660,Dev.D,2009,['romance']
+35661,Chal Chala Chal,2009,['comedy']
+35662,Mere Khwabon Mein Jo Aaye,2009,"['drama', ' fantasy', ' musical']"
+35663,Billu,2009,['drama']
+35664,The Stoneman Murders,2009,"['crime', ' drama', ' mystery']"
+35665,Delhi-6,2009,"['romance', ' drama']"
+35666,Kisse Pyaar Karoon,2009,['romance']
+35667,"13B
+",2009,['horror']
+35668,"Dhoondte Reh Jaaoge
+",2009,['comedy']
+35669,"Karma Aur Holi
+",2009,['drama']
+35670,"Jai Veeru
+",2009,['action comedy']
+35671,"Little Zizou
+",2009,['comedy']
+35672,"Gulaal
+",2009,['drama']
+35673,"Aloo Chaat
+",2009,['romantic comedy']
+35674,"Barah Aana
+",2009,['drama']
+35675,"Firaaq
+",2009,['political']
+35676,"Lottery
+",2009,['comedy']
+35677,"Straight
+",2009,['romantic comedy']
+35678,"Aa Dekhen Zara
+",2009,"['action', ' thriller']"
+35679,"99
+",2009,['comedy']
+35680,"Ek: The Power of One
+",2009,['action thriller']
+35681,8 x 10 Tasveer,2009,['thriller']
+35682,Ek Se Bure Do,2009,['comedy']
+35683,Pal Pal Dil Ke Saath,2009,['drama']
+35684,Coffee House,2009,['drama']
+35686,Royal Utsav,2009,['historical drama']
+35687,Chowrasta Crossroads of Love,2009,['drama']
+35688,Meri Padosan,2009,['comedy']
+35689,Sikandar,2009,['social']
+35690,Sanam Teri Kasam,2009,"['comedy', ' romance']"
+35691,Team - The Force,2009,['action']
+35692,Kal Kissne Dekha,2009,"['romance', ' drama', ' social', ' comedy']"
+35694,Let's Dance,2009,['romance']
+35695,Paying Guests,2009,['comedy']
+35696,New York,2009,"['action thriller', ' romance']"
+35697,Kambakkht Ishq,2009,"['action', ' comedy', ' romance']"
+35698,Sankat City,2009,['dark comedy']
+35699,Shortkut,2009,['comedy']
+35700,Jashnn,2009,['musical']
+35701,Luck,2009,['action thriller']
+35702,Love Aaj Kal,2009,['romance']
+35703,Agyaat,2009,['horror']
+35704,Chal Chalein,2009,['social']
+35705,Teree Sang,2009,['drama']
+35706,Kaminey,2009,['drama']
+35707,Life Partner,2009,"['comedy', ' romance']"
+35708,Phir Kabhi,2009,['romance']
+35709,Daddy Cool,2009,['comedy']
+35710,Kisaan,2009,['social']
+35711,Love Khichdi,2009,['comedy']
+35712,Quick Gun Murugun,2009,['comedy']
+35713,Toss,2009,['thriller']
+35714,Yeh Mera India,2009,['social']
+35715,"Three: Love, Lies, Betrayal",2009,['thriller']
+35716,Aagey Se Right,2009,['comedy']
+35717,Chintu Ji,2009,['comedy']
+35718,Fox,2009,['drama']
+35719,Aamras,2009,['drama']
+35720,Baabarr,2009,['action']
+35722,Vaada Raha,2009,['romance']
+35723,Dil Bole Hadippa!,2009,"['romantic comedy', ' sports']"
+35724,Wanted,2009,"['action', ' romance']"
+35725,Blue Oranges,2009,['thriller']
+35726,What's Your Raashee?,2009,['romantic comedy']
+35727,Do Knot Disturb,2009,"['comedy', ' romance']"
+35728,Wake Up Sid,2009,['romantic comedy']
+35729,Acid Factory,2009,['action']
+35730,All the Best: Fun Begins,2009,['comedy']
+35731,Blue,2009,['action']
+35732,Main Aurr Mrs Khanna,2009,"['drama', ' romance']"
+35733,Bal Ganesh 2,2009,['animation']
+35734,Fruit and Nut,2009,['comedy']
+35735,Love Ka Tadka,2009,['romantic comedy']
+35736,London Dreams,2009,"['musical', ' social', ' drama', ' romance']"
+35737,Aladin,2009,['fantasy']
+35738,Ajab Prem Ki Ghazab Kahani,2009,"['comedy', ' romance']"
+35739,Jail,2009,['social']
+35740,Tum Mile,2009,['romance']
+35741,Aao Wish Karein,2009,['fantasy']
+35742,Kurbaan,2009,"['thriller', ' romance']"
+35743,Shaabash! You Can Do It,2009,"['comedy', ' thriller', ' social']"
+35744,Marega Salaa,2009,['action']
+35745,De Dana Dan ,2009,['comedy']
+35746,"Radio
+",2009,['musical']
+35747,"Paa
+",2009,"['drama', ' family']"
+35748,"Rocket Singh: Salesman of the Year
+",2009,['comedy']
+35749,"Raat Gayi, Baat Gayi?
+",2009,['drama']
+35750,"3 Idiots
+",2009,['comedy']
+35751,"Accident on Hill Road
+",2009,['thriller']
+35762,Dulha Mil Gaya,2010,['romantic comedy']
+35763,Pyaar Impossible!,2010,['romantic comedy']
+35764,Chance Pe Dance,2010,"['comedy', ' romance']"
+35765,Veer,2010,['epic film']
+35766,Ishqiya,2010,"['comedy', ' crime', ' romance']"
+35767,Rann,2010,['drama']
+35768,Road to Sangam,2010,['drama']
+35769,The Hangman,2010,['drama']
+35770,Striker,2010,['action']
+35771,My Name Is Khan,2010,['drama']
+35772,Sukhmani: Hope for Life,2010,['drama']
+35773,Aakhari Decision,2010,['action']
+35774,Click,2010,['horror']
+35775,Toh Baat Pakki!,2010,['comedy']
+35776,Karthik Calling Karthik,2010,['thriller']
+35777,Teen Patti,2010,"['drama', ' thriller']"
+35778,Atithi Tum Kab Jaoge?,2010,['comedy']
+35779,Hello Zindagi,2010,['drama']
+35780,"Road, Movie",2010,['drama']
+35781,Rokkk,2010,['thriller']
+35782,Thanks Maa,2010,['drama']
+35783,Do Dilon Ke Khel Mein,2010,['romantic comedy']
+35784,Hide & Seek,2010,['thriller']
+35785,Na Ghar Ke Na Ghaat Ke,2010,['comedy']
+35786,Right Yaaa Wrong,2010,['action']
+35787,Trump Card,2010,"['action', 'thriller']"
+35788,Idiot Box,2010,['drama']
+35789,Lahore,2010,"['sports', 'social']"
+35790,Love Sex Aur Dhokha,2010,['found footage']
+35791,Shaapit,2010,['horror']
+35792,Hum Tum Aur Ghost,2010,['comedy']
+35793,It's a Man's World,2010,['social']
+35794,Mittal v/s Mittal,2010,['romance']
+35795,My Friend Ganesha 3,2010,['animation']
+35796,Prem Kaa Game,2010,['comedy']
+35797,Well Done Abba,2010,['social']
+35798,Pankh,2010,['social']
+35799,Sadiyaan,2010,['romance']
+35800,Tum Milo Toh Sahi,2010,"['social', 'drama']"
+35801,Jaane Kahan Se Aayi Hai,2010,"['comedy', 'romance', 'fantasy']"
+35802,Prince - It's Showtime!,2010,"['action', 'thriller']"
+35803,The Japanese Wife,2010,['romance']
+35804,Paathshaala,2010,['social']
+35805,Phoonk 2,2010,['horror']
+35806,Apartment,2010,['thriller']
+35807,Bird Idol,2010,['animation']
+35808,City of Gold,2010,['social']
+35810,Muskurake Dekh Zara,2010,['romantic comedy']
+35811,Chase,2010,['action']
+35812,Housefull,2010,['comedy']
+35813,Badmaash Company,2010,"['romance', 'drama']"
+35814,It's a Wonderful Afterlife,2010,['drama']
+35815,Admissions Open,2010,['drama']
+35816,Bumm Bumm Bole,2010,"['children', 'drama']"
+35817,Kushti,2010,"['comedy', 'romance']"
+35818,Kites,2010,"['thriller', 'romance']"
+35819,Raajneeti,2010,"['drama', 'political thriller']"
+35820,Ek Second... Jo Zindagi Badal De?,2010,['thriller']
+35821,Raavan,2010,"['action', 'romance']"
+35822,Krantiveer - The Revolution,2010,['action']
+35823,Mr. Singh Mrs. Mehta,2010,['drama']
+35824,I Hate Luv Storys,2010,['romance']
+35825,Milenge Milenge,2010,['romance']
+35826,Red Alert: The War Within,2010,['action']
+35827,Lamhaa,2010,['action']
+35828,Tere Bin Laden,2010,['comedy']
+35829,Udaan,2010,['drama']
+35830,Khatta Meetha,2010,"['comedy', ' drama', ' romance']"
+35831,Once Upon a Time in Mumbaai,2010,"['action', ' romance', ' thriller', ' crime']"
+35832,Aisha,2010,['romance']
+35833,Help,2010,['horror']
+35834,Peepli Live,2010,"['political', ' comedy']"
+35835,Lafangey Parindey,2010,['romance']
+35836,Mr. Bhatti on Chutti,2010,['comedy']
+35837,Hello Darling,2010,['comedy']
+35838,Antardwand,2010,['crime']
+35839,Aashayein,2010,['drama']
+35840,Soch Lo,2010,"['mystery', ' suspense']"
+35841,We Are Family,2010,"['drama', ' romance']"
+35842,Mallika,2010,['horror']
+35843,The Film Emotional Atyachar,2010,['drama']
+35844,Dabangg,2010,['action']
+35845,Anjaana Anjaani,2010,['romance']
+35846,Khichdi: The Movie,2010,['comedy']
+35847,Crook,2010,['thriller']
+35848,Do Dooni Chaar,2010,['comedy']
+35849,Aakrosh,2010,['thriller']
+35850,Pusher,2010,"['action', ' drama']"
+35851,Knock Out,2010,['action']
+35852,Kajraare,2010,['romance']
+35853,Ramayana: The Epic,2010,['animation']
+35854,Hisss,2010,"['horror', 'thriller']"
+35855,Jhootha Hi Sahi,2010,['romance']
+35856,Rakta Charitra,2010,['biographical']
+35857,Dunno Y... Na Jaane Kyon,2010,['romance']
+35858,Maalik Ek,2010,"['biographical', ' animation']"
+35859,Nakshatra,2010,['romance']
+35860,Golmaal 3,2010,['comedy']
+35861,Action Replayy,2010,['comedy']
+35862,A Flat,2010,['thriller']
+35863,Ramaa: The Saviour,2010,"['action', ' adventure']"
+35864,Guzaarish,2010,['romance']
+35865,"Shahrukh Bola ""Khoobsurat Hai Tu""",2010,['thriller']
+35866,Diwangi Ne Had Kar Di,2010,"['romance ', ' thriller']"
+35867,Allah Ke Banday,2010,['thriller']
+35868,Break Ke Baad,2010,['romance']
+35869,Khuda Kasam,2010,['action']
+35870,Khelein Hum Jee Jaan Sey,2010,['period']
+35871,Phas Gaye Re Obama,2010,"['comedy ', ' crime']"
+35872,Rakta Charitra 2,2010,['biographical']
+35873,Band Baaja Baaraat,2010,['drama romance']
+35874,No Problem,2010,['comedy']
+35875,332 Mumbai to India,2010,['thriller']
+35876,Payback,2010,['thriller']
+35877,Kaalo,2010,['horror']
+35878,Mirch,2010,['drama']
+35879,Tees Maar Khan,2010,['action comedy']
+35880,Isi Life Mein...!,2010,['drama']
+35881,Toonpur Ka Super Hero,2010,['animated']
+35882,Tera Kya Hoga Johnny,2010,['thriller']
+35883,Ada... A Way of Life,2010,['drama']
+35894,No One Killed Jessica,2011,['social thriller']
+35895,Impatient Vivek,2011,"['adult', 'comedy', 'romance']"
+35896,Yamla Pagla Deewana,2011,"['comedy', 'drama', 'action']"
+35897,Turning 30!!!,2011,"['adult', 'romance', 'comedy']"
+35898,Mumbai Mast Kallander,2011,"['comedy', 'comedy', 'comedy']"
+35899,Odyssey of Persistence,2011,['social']
+35900,Dhobi Ghat,2011,['drama']
+35901,Hostel,2011,['social']
+35902,Dil Toh Baccha Hai Ji,2011,['comedy']
+35903,Yeh Saali Zindagi,2011,['cult']
+35904,United Six,2011,"['action', 'thriller']"
+35905,Utt Pataang,2011,['comedy']
+35906,Patiala House,2011,['family drama']
+35907,Angel,2011,['drama']
+35908,Aashiqui.in,2011,['romance']
+35909,7 Khoon Maaf,2011,"['thriller', 'black comedy']"
+35910,Kaccha Limbo,2011,['children']
+35911,Masti Express,2011,['comedy']
+35912,Tanu Weds Manu,2011,"['romance', 'drama']"
+35913,Satrangee Parachute,2011,['family']
+35914,Yeh Faasley,2011,['drama']
+35915,Happy Husbands,2011,['comedy']
+35916,Monica,2011,['drama']
+35917,Game,2011,"['mystery', 'action']"
+35918,F.A.L.T.U,2011,"['satire', 'comedy', 'teen film']"
+35919,Memories in March,2011,['drama']
+35920,Thank You,2011,['comedy']
+35921,Teen Thay Bhai,2011,['drama']
+35922,Dum Maaro Dum,2011,['thriller']
+35923,Zokkomon,2011,"['superhero', 'children']"
+35924,Shor in the City,2011,"['drama', 'cult']"
+35925,Chalo Dilli,2011,['comedy road movie']
+35926,I Am,2011,"['social', 'drama']"
+35927,Naughty @ 40,2011,['comedy']
+35928,Luv Ka The End,2011,"['teen', 'comedy']"
+35929,Haunted – 3D,2011,['horror']
+35930,Love U...Mr. Kalakaar!,2011,"['romance', 'comedy']"
+35931,Ragini MMS,2011,"['horror', 'romance']"
+35932,Shagird,2011,"['action', 'drama']"
+35933,Stanley Ka Dabba,2011,['children']
+35934,404,2011,['psychological thriller']
+35935,Pyaar Ka Punchnama,2011,"['romance', 'comedy']"
+35936,Kucch Luv Jaisaa,2011,"['drama', 'comedy']"
+35937,Ready,2011,['comedy']
+35938,Shaitan,2011,"['drama', 'thriller']"
+35939,Bheja Fry 2,2011,['comedy']
+35940,Always Kabhi Kabhi,2011,"['romance', 'teen']"
+35941,Bhindi Baazaar Inc.,2011,['thriller']
+35942,Bin Bulaye Baraati,2011,['crime']
+35943,Double Dhamaal,2011,['comedy']
+35945,Bbuddah... Hoga Terra Baap,2011,['action']
+35946,Delhi Belly,2011,"['action', 'comedy']"
+35947,Murder 2,2011,['psychological thriller']
+35948,Chillar Party,2011,['children']
+35949,Zindagi Na Milegi Dobara,2011,"['romance', 'road']"
+35950,Singham,2011,['action']
+35951,Khap,2011,['social']
+35952,Gandhi to Hitler,2011,['biographical']
+35953,Bubble Gum,2011,['drama']
+35954,Chala Mussaddi... Office Office,2011,"['comedy', 'social']"
+35955,I Am Kalam,2011,['drama']
+35956,Milta Hai Chance By Chance,2011,"['comedy', 'romance']"
+35957,Warning,2011,['horror']
+35958,Aarakshan,2011,['social']
+35959,Phhir,2011,['thriller']
+35960,Chatur Singh Two Star,2011,['comedy']
+35961,Not a Love Story,2011,['crime']
+35962,Sahi Dhandhe Galat Bande,2011,['comedy']
+35963,Chitkabrey – Shades of Grey,2011,['social']
+35964,Shabri,2011,['action']
+35965,Yeh Dooriyan,2011,['romance']
+35966,Bodyguard,2011,"['romance', 'action']"
+35967,Mummy Punjabi,2011,['comedy']
+35968,That Girl in Yellow Boots,2011,['social']
+35969,Mere Brother Ki Dulhan,2011,"['romance', 'comedy']"
+35970,Rivaaz,2011,['social']
+35971,Mausam,2011,['romance']
+35972,Speedy Singhs,2011,['drama']
+35973,U R My Jaan,2011,['romance']
+35974,Force,2011,['action']
+35975,Hum Tum Shabana,2011,"['romance', 'comedy']"
+35976,"Saheb, Biwi Aur Gangster",2011,"['action', 'thriller']"
+35977,Tere Mere Phere,2011,"['romantic', 'comedy']"
+35978,Chargesheet,2011,"['drama', 'thriller']"
+35979,Na Jaane Kabse hum hi,2011,['romance']
+35980,Rascals,2011,"['comedy', 'action']"
+35981,Love Breakups Zindagi,2011,['romantic']
+35982,Mujhse Fraaandship Karoge,2011,"['comedy', 'romance']"
+35983,My Friend Pinto,2011,['romance comedy crime']
+35984,Aazaan,2011,"['action', 'thriller']"
+35985,Ra.One,2011,"['action', 'sci-fi']"
+35986,Tell Me O Kkhuda,2011,['drama']
+35987,Damadamm!,2011,['comedy']
+35988,Loot,2011,['comedy']
+35989,Miley Naa Miley Hum,2011,"['romance', 'drama']"
+35990,Rockstar,2011,"['romance', 'drama']"
+35991,Shakal Pe Mat Ja,2011,['comedy']
+35992,Desi Boyz,2011,['comedy']
+35993,The Dirty Picture,2011,['drama']
+35994,Ladies vs Ricky Bahl,2011,['comedy']
+35995,Jo Hum Chahein,2011,"['romance', 'drama']"
+35996,Don 2,2011,"['action', 'thriller']"
+36007,Players,2012,"['action', 'thriller']"
+36008,Chaalis Chauraasi 4084,2012,"['comedy', 'crime']"
+36009,Ghost,2012,"['adult', 'horror']"
+36010,Sadda Adda,2012,['comedy']
+36011,Agneepath,2012,"['action', 'drama']"
+36012,Gali Gali Chor Hai,2012,['drama']
+36013,Staying Alive,2012,['social']
+36014,Love You To Death,2012,['comedy']
+36015,Ek Main Aur Ekk Tu,2012,"['romance', 'comedy']"
+36016,Valentine's Night,2012,"['adult', 'romance', 'thriller']"
+36017,Ekk Deewana Tha,2012,['romance']
+36018,?: A Question Mark,2012,"['adult', 'horror']"
+36019,Married 2 America,2012,['drama']
+36020,Jodi Breakers,2012,['romance']
+36021,Tere Naal Love Ho Gaya,2012,"['romance', 'comedy']"
+36022,"London, Paris, New York",2012,['romance']
+36023,Paan Singh Tomar,2012,['crime']
+36024,Will You Marry Me?,2012,['romance']
+36025,Kahaani,2012,"['drama', 'thriller']"
+36026,Chaar Din Ki Chandni,2012,['comedy']
+36027,Say Yes to Love,2012,['romance']
+36028,Akkad Bakkkad Bam Be Bo,2012,['romance']
+36029,Zindagi Tere Naam,2012,['romance']
+36030,Blood Money,2012,['thriller']
+36031,Agent Vinod,2012,"['suspense', 'thriller']"
+36032,Bumboo,2012,['comedy']
+36033,Housefull 2,2012,['action comedy']
+36034,Bittoo Boss,2012,['comedy']
+36035,Vicky Donor,2012,['comedy']
+36036,Ab Hoga Dharna Unlimited,2012,['drama']
+36037,Hate Story,2012,"['adult', 'thriller']"
+36038,Chhodo Kal Ki Baatein,2012,['comedy']
+36039,Tezz,2012,['action']
+36040,Life Ki Toh Lag Gayi,2012,['comedy']
+36041,Jannat 2,2012,"['crime', 'thriller']"
+36042,Fatso!,2012,['comedy']
+36043,The Forest,2012,['horror']
+36044,"Love, Lies & Seeta",2012,['comedy']
+36045,Dangerous Ishq,2012,"['romance', 'thriller']"
+36046,Chhota Bheem And The Curse Of Damyaan,2012,['animation']
+36047,Ishaqzaade,2012,['romance']
+36048,Department,2012,"['adult', 'action', 'crime']"
+36050,Arjun: The Warrior Prince,2012,['computer-animated']
+36051,MLA,2012,['crime']
+36052,Rakhtbeej,2012,['romantic comedy']
+36053,Yeh Khula Aasmaan,2012,['romantic']
+36054,"Love, Wrinkle-free",2012,"['adult', 'romantic']"
+36055,Rowdy Rathore,2012,"['action', 'comedy']"
+36056,Shanghai,2012,"['political', 'thriller']"
+36057,Qasam Se Qasam Se,2012,['romance']
+36058,Ferrari Ki Sawaari,2012,"['drama', 'comedy']"
+36059,Teri Meri Kahaani,2012,"['romance', 'comedy']"
+36060,Gangs of Wasseypur,2012,"['adult', 'crime', 'thriller']"
+36061,Maximum,2012,['thriller']
+36062,Bol Bachchan,2012,"['comedy', 'action']"
+36063,3 Bachelors,2012,['comedy']
+36064,Cocktail,2012,['romance']
+36065,Gattu,2012,['children']
+36066,Challo Driver,2012,['comedy']
+36067,Mere Dost Picture Abhi Baki Hai,2012,['comedy']
+36068,Kyaa Super Kool Hain Hum,2012,"['adult', 'comedy']"
+36069,Aalaap,2012,['social']
+36070,Overtime,2012,['drama']
+36071,Jism 2,2012,"['adult', 'thriller']"
+36072,Krishna Aur Kans ,2012,['computer-animated']
+36073,Gangs of Wasseypur – Part 2,2012,"['adult', 'crime', 'thriller']"
+36074,Paanch Ghantey Mien Paanch Crore,2012,['thriller']
+36075,Ek Tha Tiger,2012,"['romance', 'action']"
+36076,Shirin Farhad Ki Toh Nikal Padi,2012,"['romance', 'comedy']"
+36077,Joker,2012,['drama']
+36078,Jalpari: The Desert Mermaid,2012,"['thriller', 'social']"
+36079,From Sydney with Love,2012,['romantic']
+36080,I M 24,2012,['comedy']
+36081,Raaz 3: The Third Dimension,2012,"['adult', 'suspense', 'thriller']"
+36082,Chal Pichchur Banate Hain,2012,['comedy']
+36083,Barfi!,2012,"['romance', 'comedy']"
+36084,Jeena Hai Toh Thok Daal,2012,['drama']
+36085,Heroine,2012,"['adult', 'drama']"
+36086,Kamaal Dhamaal Malamaal,2012,['comedy']
+36087,OMG – Oh My God!,2012,['comedy']
+36088,English Vinglish,2012,['drama']
+36089,Kismet Love Paisa Dilli,2012,['comedy']
+36090,Aiyyaa,2012,['rom-com']
+36091,Login,2012,"['drama', 'thriller']"
+36092,Chittagong,2012,['drama']
+36093,Delhi Safari,2012,['computer animated']
+36094,Bhoot Returns,2012,['horror']
+36095,Student of the Year,2012,"['romance', 'comedy']"
+36096,Chakravyuh,2012,['political thriller']
+36097,Ajab Gazabb Love,2012,['comedy']
+36098,Rush,2012,"['thriller', 'crime']"
+36099,Luv Shuv Tey Chicken Khurana,2012,['comedy']
+36100,1920: The Evil Returns,2012,['horror']
+36101,Ata Pata Laapata,2012,['musical comedy']
+36102,Sons of Ram,2012,"['animation', 'drama', 'children']"
+36103,Future To Bright Hai Ji,2012,['drama']
+36104,Jab Tak Hai Jaan,2012,"['romance', ' drama']"
+36105,Son Of Sardaar,2012,['comedy']
+36106,Talaash: The Answer Lies Within,2012,"['drama', 'suspense']"
+36107,Khiladi 786,2012,"['action', 'comedy']"
+36108,Cigarette Ki Tarah,2012,"['drama', 'thriller']"
+36109,Dabangg 2,2012,"['action', 'comedy']"
+36120,Table No. 21,2013,"['thriller', 'drama']"
+36121,Dehraadun Diary,2013,['thriller']
+36122,Meri Shadi Karao,2013,['comedy']
+36123,Matru Ki Bijlee Ka Mandola,2013,['comedy']
+36124,Pyaar Mein Aisa Hota Hai,2013,['thriller']
+36125,Gangoobai,2013,['drama']
+36126,Inkaar,2013,"['romance', 'crime']"
+36127,Mumbai Mirror,2013,['action']
+36128,Bandook,2013,['crime']
+36129,Race 2,2013,"['action', 'thriller']"
+36130,Akaash Vani,2013,['romance']
+36131,Main Krishna Hoon,2013,"['animation', 'musical']"
+36132,David,2013,['crime']
+36133,Vishwaroopam,2013,['action']
+36134,Mai...,2013,"['drama', 'family']"
+36135,Listen... Amaya,2013,['drama']
+36136,Special 26,2013,"['drama', 'comedy']"
+36137,"ABCD: Any Body Can Dance
+",2013,"['drama', 'dance']"
+36138,The Unsound,2013,['thriller']
+36139,Jayantabhai Ki Luv Story,2013,"['comedy', 'romance']"
+36140,Murder 3,2013,['thriller']
+36141,Kai Po Che!,2013,['drama']
+36142,Zila Ghaziabad,2013,['action']
+36143,"I, Me Aur Main",2013,['romantic comedy']
+36144,Bloody Isshq,2013,"['romance', 'thriller']"
+36145,"Saheb, Biwi Aur Gangster Returns",2013,"['drama', 'thriller']"
+36146,Saare Jahaan Se Mehnga,2013,"['satire', 'comedy']"
+36147,3G,2013,['thriller']
+36148,Mere Dad Ki Maruti,2013,['comedy']
+36149,Jolly LLB,2013,"['comedy', 'satire']"
+36150,Rangrezz,2013,['action']
+36151,The Adventures of Sinbad,2013,['adventure']
+36152,Himmatwala,2013,"['action', 'comedy']"
+36153,Chashme Baddoor,2013,['comedy']
+36154,Nautanki Saala,2013,"['comedy', 'romance']"
+36155,Commando: A One Man Army,2013,"['action', 'romance']"
+36156,Ek Thi Daayan,2013,['horror']
+36157,Aashiqui 2,2013,['musical romance']
+36158,Shree,2013,['thriller']
+36159,Shootout at Wadala,2013,"['crime', 'thriller']"
+36160,Bombay Talkies,2013,['anthology']
+36161,Chhota Bheem and the Throne of Bali,2013,"['children', 'animation']"
+36162,Go Goa Gone,2013,['zombie comedy']
+36163,Gippi,2013,['coming of age']
+36164,Aurangzeb,2013,"['drama', 'action']"
+36165,I Don't Luv U,2013,['romantic drama']
+36166,Beehad - The Ravines,2013,['drama']
+36167,Ishkq in Paris,2013,['romance']
+36168,Hum Hai Raahi Car Ke,2013,['romantic comedy']
+36169,Zindagi 50-50,2013,['social']
+36170,Yeh Jawaani Hai Deewani,2013,['romantic comedy']
+36171,Yamla Pagla Deewana 2,2013,"['comedy', 'action']"
+36172,Fukrey,2013,['comedy']
+36173,Ankur Arora Murder Case,2013,['thriller']
+36174,Raanjhanaa,2013,['romance']
+36175,Enemmy,2013,['action']
+36176,Shortcut Romeo,2013,['romantic thriller']
+36177,Ghanchakkar,2013,"['comedy', 'thriller']"
+36178,Lootera,2013,"['romance', 'thriller']"
+36179,Policegiri,2013,['action']
+36180,Bhaag Milkha Bhaag,2013,['biopic']
+36181,Sixteen,2013,['drama']
+36182,B.A. Pass,2013,['drama']
+36183,Boyss Toh Boyss Hain,2013,['comedy']
+36184,Ramaiya Vastavaiya,2013,['rom-com']
+36185,D Day,2013,"['action', 'drama']"
+36186,Ship of Theseus,2013,['avant-garde']
+36187,Issaq,2013,"['romance', 'drama']"
+36188,Bajatey Raho,2013,['comedy']
+36189,Luv U Soniyo,2013,['romance']
+36190,Nasha,2013,"['erotic', 'thriller']"
+36191,Rabba Main Kya Karoon,2013,['comedy']
+36192,Chor Chor Super Chor,2013,['comedy']
+36193,Calapor,2013,"['thriller', 'drama']"
+36194,Love in Bombay,2013,['romance']
+36195,Chennai Express,2013,"['comedy', 'action']"
+36196,Once Upon Ay Time In Mumbai Dobaara!,2013,"['crime', 'romance']"
+36197,Madras Cafe,2013,"['drama', 'espionage thriller']"
+36198,Satyagraha,2013,['political thriller']
+36199,Zanjeer,2013,"['action', 'thriller']"
+36200,Shuddh Desi Romance,2013,['romance']
+36201,Siddharth,2013,['drama']
+36202,Grand Masti,2013,['adult comedy']
+36203,John Day,2013,['thriller']
+36204,Horror Story,2013,['horror']
+36205,Phata Poster Nikhla Hero,2013,"['rom com', 'action']"
+36206,The Lunchbox,2013,['drama']
+36208,Maazii,2013,['suspense thriller']
+36209,Prague,2013,"['psychological thriller', 'romance']"
+36210,Super Model,2013,['drama']
+36211,War Chhod Na Yaar,2013,['war comedy']
+36212,Baat Bann Gayi,2013,['comedy']
+36213,Ek Thee Sanam,2013,['drama']
+36214,Paapi - Ek Satya Katha,2013,['crime']
+36215,Boss,2013,['masala']
+36216,Shahid,2013,"['drama', 'biography']"
+36217,Wake Up India,2013,"['political', 'drama']"
+36218,Amdavad Junction,2013,"['crime', 'drama']"
+36219,Dilli Gang,2013,['crime']
+36220,Mickey Virus,2013,"['comedy', 'thriller']"
+36221,Ishk Actually,2013,['romance']
+36222,Sooper Se Ooper,2013,['comedy']
+36223,Krrish 3,2013,['superhero']
+36224,Satya 2,2013,['crime']
+36225,Rajjo,2013,['romance']
+36226,Goliyon Ki Raasleela Ram-Leela,2013,"['romance', 'drama']"
+36227,Gori Tere Pyaar Mein,2013,"['romance', 'comedy']"
+36228,Singh Saab The Great,2013,['action']
+36229,Bullett Raja,2013,"['comedy', 'crime', 'romance']"
+36230,R... Rajkumar,2013,"['action', 'romance']"
+36232,What the Fish,2013,['drama']
+36233,Dhoom 3,2013,['action']
+36244,Mr Joe B. Carvalho,2014,['comedy']
+36245,Sholay 3D,2014,"['action', 'adventure']"
+36246,Dedh Ishqiya,2014,"['black comedy', 'thriller']"
+36247,Yaariyan,2014,['romance']
+36248,Karle Pyaar Karle,2014,['romance']
+36249,Miss Lovely,2014,['drama']
+36250,Om-Dar-B-Dar,2014,['experimental']
+36251,Paranthe Wali Gali,2014,['romantic comedy']
+36252,Strings of Passion,2014,['drama']
+36253,Jai Ho,2014,['action - comedy']
+36254,One by Two,2014,"['romance', 'comedy']"
+36255,Babloo Happy Hai,2014,['comedy']
+36256,Hasee Toh Phasee,2014,"['romance', 'comedy']"
+36257,Heartless,2014,['thriller']
+36258,Ya Rab,2014,"['drama', 'social']"
+36259,Gunday,2014,['action']
+36260,Kaho Na Kaho,2014,['social']
+36261,Darr @ the Mall,2014,['horror']
+36262,Dee Saturday Night,2014,['drama']
+36263,Gulabi Gang,2014,['documentary']
+36264,Highway,2014,"['drama', 'romance']"
+36265,Karar: The Deal,2014,['thriller']
+36266,Pyar Ka Live Show,2014,['drama']
+36267,The Dark Secrets Of Tonhi,2014,"['drama', 'action']"
+36268,Anuradha,2014,['drama']
+36269,Shaadi Ke Side Effects,2014,"['romance', 'comedy']"
+36270,Gulaab Gang,2014,"['social', 'action']"
+36271,Queen,2014,"['romance', 'drama']"
+36272,Total Siyapaa,2014,"['drama', 'comedy']"
+36273,Bewakoofiyaan,2014,['romance']
+36274,Neighbours,2014,['horror']
+36275,W,2014,['thriller']
+36276,Ankhon Dekhi,2014,['comedy']
+36277,Gang of Ghosts,2014,['horror comedy']
+36278,Lakshmi,2014,['drama']
+36279,Ragini MMS 2,2014,"['horror', 'adult']"
+36280,Dishkiyaoon,2014,['action']
+36281,O Teri,2014,['comedy']
+36282,Station,2014,['thriller']
+36283,Youngistaan,2014,['drama']
+36284,Ebn-E-Batuta,2014,"['sci-fi', 'comedy']"
+36285,Honour Killing,2014,['social']
+36286,Jal,2014,"['drama', 'fantasy']"
+36287,Main Tera Hero,2014,['comedy']
+36288,Bhoothnath Returns,2014,"['fantasy', 'children']"
+36289,2 States,2014,['romance']
+36290,Dekh Tamasha Dekh,2014,['comedy']
+36291,Lucky Kabootar,2014,"['romance', 'comedy']"
+36292,Kaanchi: The Unbreakable,2014,"['musical', 'drama']"
+36293,Revolver Rani,2014,['drama']
+36294,Samrat & Co.,2014,"['mystery', 'thriller', 'drama']"
+36295,Purani Jeans,2014,"['romance', 'drama']"
+36296,Kya Dilli Kya Lahore,2014,['social']
+36297,Angry Young Man,2014,['action']
+36298,Kahin Hai Mera Pyar,2014,['romance']
+36299,Hawaa Hawaai,2014,['drama']
+36300,Khwaabb,2014,"['romance', 'drama']"
+36301,Koyelaanchal,2014,['action']
+36302,Manjunath,2014,['drama']
+36303,Mastram,2014,['adult']
+36304,Yeh Hai Bakrapur,2014,['comedy']
+36305,The Xposé,2014,['thriller']
+36306,Children of War,2014,['drama']
+36307,M3 - Midsummer Midnight Mumbai,2014,['mystery']
+36308,Heropanti,2014,"['romance', 'action']"
+36309,CityLights,2014,['drama']
+36310,Kuku Mathur Ki Jhand Ho Gayi,2014,['comedy']
+36311,Filmistaan,2014,['comedy']
+36312,Holiday: A Soldier Is Never Off Duty,2014,"['action', 'thriller']"
+36313,Fugly,2014,"['comedy', 'drama']"
+36314,Machhli Jal Ki Rani Hai,2014,['horror']
+36315,Humshakals,2014,"['comedy', 'drama', 'romance']"
+36316,Ek Villain,2014,"['romance', 'thriller']"
+36317,Bobby Jasoos,2014,"['comedy', 'drama']"
+36318,Lekar Hum Deewana Dil,2014,"['romance', 'comedy']"
+36319,Humpty Sharma Ki Dulhania,2014,"['romance', 'comedy']"
+36320,Hate Story 2,2014,['thriller']
+36321,Bazaar-E-Husn,2014,['drama']
+36322,Riyasat,2014,"['drama', 'action']"
+36323,Amit Sahni Ki List,2014,"['romance', 'comedy']"
+36324,Pizza,2014,['horror']
+36325,Kick,2014,"['action', 'comedy']"
+36326,Entertainment,2014,['comedy']
+36327,Singham Returns,2014,['action']
+36328,Life is Beautiful!,2014,['romance']
+36329,Mad About Dance,2014,['dance']
+36330,Mardaani,2014,"['drama', 'action']"
+36331,Mumbhai Connection,2014,['comedy']
+36332,Raja Natwarlal,2014,['thriller']
+36333,Mary Kom,2014,['drama']
+36334,Creature,2014,['horror']
+36335,Finding Fanny,2014,"['comedy', 'drama']"
+36336,Daawat-e-Ishq,2014,"['comedy', 'drama']"
+36337,Khoobsurat,2014,"['romance', 'comedy']"
+36338,3 A.M.,2014,['horror']
+36339,Chaarfutiya Chhokare,2014,['thriller']
+36340,Desi Kattey,2014,"['drama', 'action']"
+36341,Meinu Ek Ladki Chaahiye,2014,['social satire']
+36342,Balwinder Singh Famous Ho Gaya,2014,['comedy']
+36343,Bang Bang!,2014,['action']
+36344,Haider,2014,['drama']
+36345,Spark,2014,['drama']
+36346,Jigariyaa,2014,['romance']
+36347,Ekkees Toppon Ki Salaami,2014,['political satire']
+36348,Tamanchey,2014,"['crime', 'romance']"
+36349,Mumbai 125 KM,2014,['horror']
+36350,Sonali Cable,2014,"['comedy', 'drama']"
+36351,Happy New Year,2014,"['action', 'comedy']"
+36352,Fireflies,2014,['drama']
+36353,Roar: Tigers of the Sunderbans,2014,"['drama', 'action']"
+36354,Super Nani,2014,['drama']
+36355,Rang Rasiya,2014,['drama']
+36356,A Decent Arrangement,2014,['drama']
+36357,The Shaukeens,2014,['comedy']
+36358,6 - 5 = 2,2014,"['found footage ', ' horror']"
+36359,Kill Dil,2014,"['romance', 'drama']"
+36360,Gollu Aur Pappu,2014,['comedy']
+36361,Happy Ending,2014,"['romance', 'comedy']"
+36362,Titoo MBA,2014,"['romance', 'comedy']"
+36363,Wah Taj,2014,['drama']
+36364,Hum Hai Teen Khurafaati,2014,['comedy']
+36365,Ungli,2014,['drama']
+36366,Zed Plus,2014,['drama']
+36367,Zid,2014,"['erotica', 'thriller']"
+36368,Action Jackson,2014,['comedy']
+36369,Bhopal: A Prayer for Rain,2014,['drama']
+36370,Mumbai Delhi Mumbai,2014,['drama']
+36371,Sulemani Keeda,2014,"['social', 'drama']"
+36372,Badlapur Boys,2014,['sports']
+36373,Life Mein Twist Hai,2014,"['drama', 'romance']"
+36374,LUV...Phir Kabhie,2014,['drama']
+36375,Main Aur Mr. Riight,2014,"['comedy', 'romance']"
+36376,Objection My God,2014,['comedy']
+36377,Room - The Mystery,2014,"['suspense', 'thriller']"
+36378,PK,2014,"['comedy', 'drama']"
+36379,Ugly,2014,['thriller']
+36390,International Hero,2015,['drama']
+36391,Mumbai Can Dance Saala,2015,['thriller']
+36392,Take It Easy,2015,['drama']
+36393,Tevar,2015,"['action', 'romance']"
+36394,Alone,2015,['horror']
+36395,Crazy Cukkad Family,2015,['comedy']
+36396,Sharafat Gayi Tel Lene,2015,"['comedy', 'thriller']"
+36397,Baby,2015,['thriller']
+36398,Dolly Ki Doli,2015,"['romantic', 'comedy']"
+36399,Chal Guru Ho Ja Shuru,2015,['comedy']
+36400,Hawaizaada,2015,['drama']
+36401,Khamoshiyan: Silences Have Secrets,2015,['horror']
+36402,Rahasya,2015,['mystery']
+36403,Jai Jawaan Jai Kisaan,2015,['drama']
+36404,Shamitabh,2015,['drama']
+36405,MSG: The Messenger,2015,"['action', 'drama']"
+36406,Roy,2015,"['romance', 'thriller']"
+36407,Badlapur,2015,"['action', 'thriller']"
+36408,Qissa,2015,['historical drama']
+36409,Ab Tak Chhappan 2,2015,"['crime', 'drama']"
+36410,Dum Laga Ke Haisha,2015,['comedy']
+36411,Badmashiyaan,2015,['romantic comedy']
+36412,Coffee Bloom,2015,"['romance', 'drama']"
+36413,Dirty Politics,2015,['political drama']
+36414,Hey Bro,2015,['comedy']
+36415,NH10,2015,['thriller']
+36416,Dilliwali Zaalim Girlfriend,2015,['comedy']
+36417,Hunterrr,2015,['comedy']
+36418,Barkhaa,2015,['romance']
+36419,Detective Byomkesh Bakshy,2015,['thriller']
+36420,Luckhnowi Ishq,2015,['romance']
+36421,Dharam Sankat Mein,2015,['drama']
+36422,Ek Paheli Leela,2015,['musical']
+36423,Court,2015,['drama']
+36424,Margarita with a Straw,2015,['drama']
+36425,Mr. X,2015,"['sci fi', 'thriller']"
+36426,NH-8 Road to Nidhivan,2015,['horror']
+36427,"Ek Adbhut Dakshina Guru Dakshina
+",2015,"['dance', 'drama']"
+36428,Ishq Ke Parindey,2015,['romance']
+36429,Kaagaz Ke Fools,2015,['comedy']
+36430,Gabbar is Back,2015,"['crime', 'action']"
+36431,Sabki Bajegi Band,2015,"['thriller', 'drama']"
+36432,Kuch Kuch Locha Hai,2015,['comedy']
+36433,Piku,2015,"['comedy', 'drama']"
+36434,Bombay Velvet,2015,"['crime', 'drama']"
+36435,Main Hoon Rajinikanth,2015,"['spoof', ' comedy', ' thriller']"
+36436,Tanu Weds Manu Returns,2015,"['romance', 'comedy']"
+36437,I Love Desi,2015,['comedy']
+36438,Ishqedarriyaan,2015,['drama']
+36439,P Se PM Tak,2015,['comedy']
+36440,Welcome 2 Karachi,2015,['comedy']
+36441,Dil Dhadakne Do,2015,['drama']
+36442,Mere Genie Uncle 3D,2015,['drama']
+36443,Hamari Adhuri Kahani,2015,"['romance', 'drama']"
+36444,ABCD 2,2015,['dance']
+36445,Miss Tanakpur Haazir Ho ,2015,"['comedy', 'drama']"
+36446,Uvaa,2015,"['social', 'comedy']"
+36447,Bezubaan Ishq,2015,['romance']
+36448,Guddu Rangeela,2015,['comedy']
+36449,Second Hand Husband,2015,['drama']
+36450,I Love NY,2015,"['romance', 'drama']"
+36451,Thoda Lutf Thoda Ishq,2015,"['romance', 'drama']"
+36452,Bajrangi Bhaijaan,2015,"['action', ' comedy', ' drama']"
+36453,Aisa Yeh Jahaan,2015,['drama']
+36454,Masaan,2015,['drama']
+36455,Drishyam,2015,"['drama', 'thriller']"
+36456,Bangistan,2015,['comedy']
+36457,Brothers,2015,['drama']
+36458,Gour Hari Dastaan,2015,['drama']
+36459,All Is Well,2015,['drama']
+36460,Manjhi - The Mountain Man,2015,['drama']
+36461,Rolling Dream,2015,['drama']
+36462,Kaun Kitney Paani Mein,2015,"['social', 'drama']"
+36463,Phantom,2015,"['action', 'thriller']"
+36464,Welcome Back,2015,"['romance', 'comedy']"
+36465,Hero,2015,"['action', 'romance']"
+36466,Sorry Daddy,2015,"['action', 'drama']"
+36467,Katti Batti,2015,"['romance', 'comedy']"
+36468,Meeruthiya Gangster,2015,"['crime', 'comedy']"
+36469,MSG-2:The Messenger,2015,"['action', 'thriller']"
+36470,Kis Kisko Pyaar Karoon,2015,['comedy']
+36471,Calendar Girls,2015,['drama']
+36472,Bhaag Johnny,2015,['drama']
+36473,Time Out,2015,['drama']
+36474,Mumbhaii - The Gangster,2015,"['crime', 'drama']"
+36475,Singh Is Bliing,2015,['comedy']
+36476,Talvar,2015,['thriller']
+36477,Jazbaa,2015,"['action', 'drama']"
+36478,Bumper Draw,2015,['comedy']
+36479,Chinar Daastaan-E-Ishq,2015,"['romantic', 'drama']"
+36480,Pyaar Ka Punchnama 2,2015,['comedy']
+36481,Wedding Pullav,2015,['comedy']
+36482,Shaandaar,2015,"['romance', 'comedy']"
+36483,Titli,2015,['crime']
+36484,Main Aur Charles,2015,['thriller']
+36485,Once Upon A Time In Bihar,2015,['political']
+36486,"Guddu Ki Gun
+",2015,['comedy']
+36487,Love Exchange,2015,['romance']
+36488,Prithipal Singh... A Story,2015,['biopic']
+36489,Four Pillars of Basement,2015,['thriller']
+36490,Charlie Kay Chakkar Mein,2015,"['crime', 'thriller']"
+36491,Yaara Silly Silly,2015,['romance']
+36492,"Ranbanka
+",2015,['action']
+36493,Prem Ratan Dhan Payo,2015,['romance']
+36494,X,2015,['anthology']
+36495,Angry Indian Goddesses,2015,['drama']
+36496,Tamasha,2015,['romance']
+36497,Hate Story 3,2015,"['adult', 'thriller']"
+36498,Kajarya,2015,['drama']
+36499,The Silent Heroes,2015,['adventure']
+36500,Bajirao Mastani,2015,['romance']
+36501,Dilwale,2015,"['action', 'romance']"
+36502,Monsoon Shootout,2016,['neo-noir']
+36503,Wazir,2016,['thriller']
+36504,Chalk n Duster,2016,['drama']
+36505,Rebellious Flower,2016,['biopic']
+36506,Airlift,2016,"['war', 'thriller']"
+36507,Jugni,2016,['musical drama']
+36508,Kyaa Kool Hain Hum 3,2016,['adult comedy']
+36509,Saala Khadoos,2016,['sports']
+36510,Mastizaade,2016,['adult comedy']
+36512,Ghayal Once Again,2016,"['action', 'drama']"
+36513,Fitoor,2016,"['romance', 'drama']"
+36514,Sanam Re,2016,['romance']
+36515,Direct Ishq,2016,['drama']
+36516,Ishq Forever,2016,['drama']
+36517,LoveShhuda,2016,['romance']
+36518,Neerja,2016,"['biopic', 'drama']"
+36519,Dhara 302,2016,"['actiom', 'drama']"
+36520,"Aligarh
+",2016,"['biopic', 'drama']"
+36521,Bollywood Diaries,2016,['drama']
+36522,Love Shagun,2016,"['romance', 'comedy']"
+36523,Tere Bin Laden: Dead or Alive,2016,['comedy']
+36524,Zubaan,2016,['drama']
+36525,Jai Gangaajal,2016,"['drama', 'comedy']"
+36526,Global Baba,2016,['satire']
+36527,Teraa Surroor,2016,"['action', 'thriller', 'romance']"
+36528,OK Mein Dhokhe,2016,"['drama', 'thriller']"
+36529,Kapoor & Sons,2016,"['drama', 'comedy']"
+36530,Rocky Handsome,2016,['action']
+36560,Ki & Ka,2016,['romantic comedy']
+36561,Love Games,2016,['thriller']
+36562,The Blueberry Hunt,2016,['thriller']
+36563,Kaafiron Ki Namaaz,2016,['drama']
+36564,Fan,2016,"['action', 'drama', 'thriller']"
+36565,Nil Battey Sannata,2016,"['comedy', 'drama']"
+36566,Laal Rang,2016,['action']
+36567,Santa Banta Pvt Ltd,2016,['comedy']
+36569,Shortcut Safari,2016,"['adventure', ' drama']"
+36570,One Night Stand,2016,['thriller']
+36571,Traffic,2016,['thriller']
+36572,1920 London,2016,['horror']
+36573,Murari the Mad Gentleman,2016,['comedy']
+36574,Azhar,2016,['biopic']
+36575,Buddha in a Traffic Jam,2016,['political drama']
+36576,Khel Toh Ab Shuru Hoga,2016,['comedy']
+36577,Dear Dad,2016,['drama']
+36578,Kaptaan,2016,['comedy']
+36579,Sarbjit,2016,['biopic']
+36580,Phobia,2016,"['thriller', 'horror']"
+36581,Veerappan,2016,"['action', 'biopic']"
+36582,Fredrick,2016,['action']
+36583,Waiting,2016,['drama']
+36584,Housefull 3,2016,['comedy']
+36585,Do Lafzon Ki Kahani,2016,['romantic']
+36586,Dhanak,2016,['drama']
+36587,Te3n,2016,['thriller']
+36588,Udta Punjab,2016,['crime']
+36589,Luv U Alia,2016,['romance']
+36590,Raman Raghav 2.0,2016,"['crime', 'thriller']"
+36591,Junooniyat,2016,['romance']
+36592,7 Hours To Go,2016,"['crime', 'thriller']"
+36593,A Scandall,2016,['adult']
+36594,Rough Book,2016,['drama']
+36595,Shorgul,2016,['political drama']
+36596,Dil Toh Deewana Hai,2016,"['comedy', 'romance']"
+36597,Sultan,2016,"['sports', 'drama']"
+36598,Brahman Naman,2016,['comedy']
+36599,Great Grand Masti,2016,"['sex comedy', 'horror']"
+36600,Madaari,2016,['drama']
+36601,Ishq Click,2016,"['romance', 'drama']"
+36602,M Cream,2016,['road movie']
+36603,Dishoom,2016,['action']
+36604,Love Ke Funday,2016,['comedy']
+36605,The Legend of Michael Mishra,2016,"['romance', 'drama']"
+36606,Fever,2016,['thriller']
+36607,Hai Apna Dil Toh Awara,2016,"['comedy', 'romance']"
+36608,Mohenjo Daro,2016,['period drama']
+36609,Rustom,2016,"['romance', 'thriller']"
+36610,Happy Bhaag Jayegi,2016,['comedy']
+36611,Waarrior Savitri,2016,['action']
+36612,A Flying Jatt,2016,"['superhero', 'action', 'comedy']"
+36613,Akira,2016,"['action', 'drama']"
+36614,Yea Toh Two Much Ho Gayaa,2016,"['action', 'drama']"
+36615,Island City,2016,['drama']
+36616,Baar Baar Dekho,2016,"['drama', 'romance']"
+36617,Freaky Ali,2016,"['comedy', 'sports']"
+36618,Ek Kahani Julie Ki,2016,['thriller']
+36619,Raaz Reboot,2016,['horror']
+36620,Pink,2016,['drama']
+36621,Parched,2016,['drama']
+36622,Banjo,2016,"['comedy', 'drama']"
+36623,Days of Tafree,2016,['comedy']
+36625,M.S. Dhoni: The Untold Story,2016,"['biopic', 'sports']"
+36626,Mirzya,2016,"['drama', 'romance']"
+36627,"MSG: The Warrior Lion Heart
+",2016,['adventure']
+36628,Tutak Tutak Tutiya,2016,['supernatural comedy']
+36629,Anna ,2016,['biographical']
+36630,Motu Patlu: King Of Kings,2016,"['animation', 'comedy', 'adventure']"
+36631,Beiimaan Love,2016,['thriller']
+36632,Saat Uchakkey,2016,['comedy']
+36633,Fuddu,2016,['drama']
+36634,Aakhir Kab Tak,2016,['social drama']
+36635,[LOVE DAY pyaar Ka din],2016,['comedy thriller']
+36636,Umrika,2016,['drama']
+36637,31st October,2016,"['drama', 'thriller']"
+36638,Shivaay,2016,"['drama', 'action']"
+36639,Ae Dil Hai Mushkil,2016,['drama']
+36640,Chaar Sahibzaade: Rise of Banda Singh Bahadur,2016,['animation']
+36641,Dongari Ka Raja,2016,"['action', 'thriller']"
+36642,Ishq Junoon,2016,"['romantic', 'erotic']"
+36643,Rock On 2,2016,['drama']
+36644,Tum Bin 2,2016,['romance']
+36645,Force 2,2016,['action']
+36646,"Dear Zindagi
+",2016,['drama']
+36647,Saansein,2016,"['romantic', 'horror']"
+36648,"Moh Maya Money
+",2016,['crime drama']
+36649,Kahaani 2,2016,['thriller']
+36650,Befikre,2016,['romance']
+36651,Wajah Tum Ho,2016,"['romance', 'drama']"
+36652,Dangal,2016,['biopic']
+36653,Haraamkhor,2017,"['comedy', 'crime']"
+36654,Ok Jaanu,2017,"['romance', 'drama']"
+36655,Coffee with D,2017,"['comedy', 'crime']"
+36656,Kaabil,2017,"['action', 'thriller']"
+36657,Raees,2017,"['crime', 'action']"
+36658,Hind Ka Napak Ko Jawab: MSG Lion Heart 2,2017,"['action', 'drama']"
+36659,Jolly LLB 2,2017,['drama']
+36660,"U, Me Aur Ghar",2017,"['romance', 'drama']"
+36661,Runningshaadi.com,2017,['comedy']
+36662,The Ghazi Attack,2017,['action']
+36663,Irada,2017,"['thriller', 'drama']"
+36664,Chauhar,2017,['romance']
+36665,Rangoon,2017,"['war', 'drama']"
+36666,Wedding Anniversary,2017,"['romance', 'thriller']"
+36667,Mona Darling,2017,['thriller']
+36668,Commando 2,2017,['action']
+36669,Jeena Isi Ka Naam Hai,2017,"['romance', 'drama']"
+36670,Badrinath Ki Dulhania,2017,"['romance', 'comedy']"
+36671,Aa Gaya Hero,2017,"['action', 'comedy']"
+36672,Trapped,2017,"['drama', 'thriller']"
+36673,Mantra,2017,"['drama', 'family']"
+36674,Machine,2017,"['romance', 'thriller']"
+36675,Phillauri,2017,"['romance', 'comedy']"
+36676,Bhanwarey,2017,['comedy']
+36677,Anaarkali,2017,['drama']
+36678,Naam Shabana,2017,"['action', 'thriller']"
+36679,Poorna: Courage Has No Limit,2017,['adventure']
+36680,Laali Ki Shaadi Mein Laaddoo Deewana,2017,"['romance', 'drama']"
+36681,Mirza Juuliet,2017,"['romance', 'action']"
+36682,Mukti Bhawan,2017,['drama']
+36684,Begum Jaan,2017,['period drama']
+36685,Romeo-N-Bullet,2017,['romance']
+36686,Noor,2017,"['comedy', 'drama']"
+36687,Ek Thi Rani Aisi Bhi,2017,['biopic']
+36688,Maatr,2017,"['thriller', 'drama']"
+36689,Ajab Singh Ki Gajab Kahani,2017,"['thriller', 'drama']"
+36690,Mantostaan,2017,"['anthology', 'drama']"
+36691,Meri Pyaari Bindu,2017,['romance']
+36692,Sarkar 3,2017,['political crime thriller']
+36693,Half Girlfriend,2017,"['romance', 'drama']"
+36694,Jattu Engineer,2017,['comedy']
+36695,Hindi Medium,2017,"['comedy', 'drama']"
+36696,Chakallaspur,2017,"['romance', 'drama']"
+36697,Sachin: A Billion Dreams,2017,['biopic']
+36698,Thodi Thodi Si Manmaaniyan,2017,"['romance', 'drama']"
+36699,A Death in the Gunj,2017,"['crime', 'drama']"
+36700,Hanuman: Da' Damdaar,2017,['animation']
+36701,Sweetiee Weds NRI,2017,"['romance', 'comedy']"
+36702,Dobaara: See Your Evil,2017,['horror']
+36703,Flat 211,2017,"['suspense', 'mystery']"
+36704,Dear Maya,2017,"['thriller', 'drama']"
+36705,Raabta,2017,"['romance', 'thriller']"
+36706,Behen Hogi Teri,2017,"['romance', 'comedy']"
+36708,Love You Family,2017,['drama']
+36709,G Kutta Se,2017,['drama']
+36710,Bank Chor,2017,"['comedy', 'thriller']"
+36711,Tubelight,2017,"['action', 'drama']"
+36712,Ek Haseena Thi Ek Deewana Tha,2017,['romance']
+36713,Mom,2017,"['thriller', 'drama']"
+36714,Guest Iin London,2017,['comedy']
+36715,Jagga Jasoos,2017,"['comedy', 'romance']"
+36716,Shab,2017,['drama']
+36717,Lipstick Under My Burkha,2017,"['sex', 'drama']"
+36718,Munna Michael,2017,"['action', 'romance']"
+36719,Raag Desh : Birth Of A Nation,2017,"['period drama', 'action']"
+36720,Indu Sarkar,2017,['drama']
+36721,Mubarakan,2017,"['comedy', 'romance']"
+36722,Gurgaon,2017,['neo-noir']
+36723,Jab Harry Met Sejal,2017,['romance']
+36724,Toilet: Ek Prem Katha,2017,"['comedy', 'drama']"
+36725,Partition: 1947,2017,['drama']
+36726,Bareilly Ki Barfi,2017,"['comedy', 'romance']"
+36727,A Gentleman,2017,"['action', 'romance']"
+36728,Babumoshai Bandookbaaz,2017,['action']
+36729,Yadvi – The Dignified Princess,2017,['drama']
+36730,Qaidi Band,2017,"['musical', 'drama']"
+36731,"Baadshaho
+",2017,"['action', 'crime thriller']"
+36732,Shubh Mangal Savdhan,2017,"['drama', 'comedy']"
+36733,Poster Boys,2017,['comedy']
+36734,Daddy,2017,"['crime', 'drama']"
+36735,Simran,2017,['drama']
+36736,Lucknow Central,2017,['drama']
+36737,Patel Ki Punjabi Shaadi,2017,"['comedy', 'drama']"
+36738,Newton,2017,['dark comedy']
+36739,Bhoomi,2017,"['action', 'drama']"
+36740,The Final Exit,2017,['horror']
+36741,JD,2017,"['drama', 'thriller']"
+36742,Haseena Parkar,2017,['biographic']
+36743,Judwaa 2,2017,"['action', 'comedy']"
+36744,Tu Hai Mera Sunday,2017,['romantic comedy']
+36745,Chef,2017,['comedy']
+36746,Babuji Ek Ticket Bambai,2017,['social drama']
+36747,Main Terrorist Nahi Hoon,2017,['action']
+36748,Ranchi Diaries,2017,"['drama', 'thriller']"
+36749,Secret Superstar,2017,['musical drama']
+36750,Golmaal Again,2017,['comedy']
+36751,Jia aur Jia,2017,['road film']
+36752,Rukh,2017,['drama']
+36754,The House Next Door,2017,['horror']
+36755,Ribbon,2017,['drama']
+36756,Shaadi Mein Zaroor Aana,2017,"['romance', 'drama']"
+36757,Qarib Qarib Singlle,2017,"['romance', 'comedy']"
+36758,The Window,2017,['suspense thriller']
+36759,"Aksar 2
+",2017,['thriller']
+36760,Panchlait,2017,['romantic comedy']
+36761,Tumhari Sulu,2017,"['social', 'comedy']"
+36762,Dil Jo Na Keh Saka,2017,['romantic drama']
+36763,Julie 2,2017,['erotic thriller']
+36764,Ajji,2017,['drama']
+36765,Kadvi Hawa,2017,"['drama', 'disaster']"
+36766,Saankal,2017,['drama']
+36767,Tera Intezaar,2017,['romantic thriller']
+36768,Firangi,2017,['comedy']
+36769,Fukrey Returns,2017,['comedy']
+36770,Game Over,2017,"['suspense', 'thriller']"
+36771,Sallu ki Shaadi,2017,['comedy drama']
+36773,Tiger Zinda Hai,2017,"['action', 'drama']"
+36774,1921,2018,['horror']
+36774,Kaalakaandi,2018,['dark comedy']
+36774,Mukkabaaz,2018,['drama']
+36774,My Birthday Song,2018,['psychological thriller']
+36774,Vodka Diaries,2018,['suspense thriller']
+36774,Nirdosh,2018,['thriller']
+36774,Union Leader,2018,['drama']
+36774,Padmaavat,2018,['period drama']
+36774,Pad Man,2018,['comedy drama']
+36774,Love Per Square Foot,2018,['romantic comedy']
+36774,Aiyaary,2018,['drama']
+36774,Kuchh Bheege Alfaaz,2018,['romance']
+36774,Jaane Kyun De Yaaron,2018,['drama']
+36774,Sonu Ke Titu Ki Sweety,2018,['drama']
+36774,Welcome To New York,2018,['comedy']
+36774,Pari,2018,['thriller']
+36774,Veerey Ki Wedding,2018,['drama']
+36774,Billu Ustaad,2018,['drama']
+36774,Hate Story 4,2018,['erotic thriller']
+36774,Dil Juunglee,2018,"['romantic', ' comedy']"
+36774,3 Storeys,2018,['thriller']
+36774,Note Pe Chot at 8/11,2018,"['satire', ' comedy']"
+36774,Raid,2018,"['action', ' thriller']"
+36774,Raja Abroadiya,2018,['comedy']
+36774,Hichki,2018,['drama']
+36774,Pareshaan Parinda,2018,['thriller']
+36774,Baa Baaa Black Sheep,2018,['comedy']
+36774,Shaadi Teri Bajayenge Hum Band,2018,['comedy']
+36774,Baaghi 2,2018,"['action', 'romance']"
+36774,Missing,2018,['psychological thriller']
+36774,Mercury,2018,['thriller']
+36774,Zoo,2018,['drama']
+36774,Beyond the Clouds,2018,['drama']
+36774,Nanu Ki Jaanu,2018,['comedy']
+36774,Daas Dev,2018,['romantic thriller']
+36774,Ishq Tera,2018,['thriller']
+36774,Our Heroes,2018,['action']
+36774,102 Not Out,2018,['comedy']
+36774,Omerta,2018,['crime drama']
+36774,Raazi,2018,['period thriller']
+36774,The Past,2018,['horror thriller']
+36774,Hope Aur Hum,2018,['drama']
+36774,Falooda,2018,['comedy']
+36774,Bhootwali Love Story,2018,['horror-comedy']
+36774,High Jack,2018,['comedy']
+36774,Khajoor Pe Atke,2018,['comedy']
+36774,Parmanu: The Story Of Pokhran,2018,"['action', 'drama']"
+36774,One Night Out,2018,['suspense thriller']
+36774,Bioscopewala,2018,['drama']
+36774,Veere Di Wedding,2018,['romantic comedy']
+36774,Bhavesh Joshi Superhero,2018,['action']
+36774,Phamous,2018,"['drama', 'action']"
+36774,Race 3,2018,['thriller']
+36774,Sanju,2018,['biopic']
+36774,Soorma,2018,['biopic']
+36774,When Obama Loved Osama,2018,['comedy']
+36774,Dhadak,2018,['drama']
+36774,Ekta,2018,"['horror', 'thriller']"
+36774,"Saheb, Biwi Aur Gangster 3",2018,['drama']
+36774,Nawabzaade,2018,['romantic comedy']
+36774,Fanney Khan,2018,['musical comedy']
+36774,Mulk,2018,['drama']
+36774,Brij Mohan Amar Rahe!,2018,['crime comedy']
+36774,Laxmi and Tikli Bomb,2018,['drama']
+36774,Karwaan,2018,['comedy']
+36774,Gold,2018,"['sports', 'drama']"
+36774,Satyameva Jayate,2018,"['action', 'thriller']"
+36774,Happy Phirr Bhag Jayegi,2018,['comedy']
+36774,Yamla Pagla Deewana: Phir Se,2018,['comedy']
+36774,Stree,2018,['horror comedy']
+36774,Paltan,2018,"['action', 'war']"
+36774,Laila Majnu,2018,"['drama', 'romance']"
+36774,Gali Guleiyan,2018,['psychological drama']
+36774,Halkaa,2018,['drama']
+36774,Manmarziyaan,2018,"['romantic', ' drama']"
+36774,Love Sonia,2018,['drama']
+36774,Turning Point,2018,"['action', 'drama', 'musical']"
+36774,Bajra vs Burger,2018,['comedy']
+36774,Kathor,2018,['drama']
+36774,22 Days,2018,['drama']
+36774,Mitron,2018,['comedy']
+36774,Batti Gul Meter Chalu,2018,"['romance', ' social drama']"
+36774,Manto,2018,['biographical']
+36774,Ishqeria,2018,['romance']
+36774,Sui Dhaaga,2018,"['romance', ' social drama']"
+36774,Pataakha,2018,['drama']
+36774,Loveyatri,2018,['romantic']
+36774,Andhadhun,2018,['romantic thriller']
+36774,Jalebi,2018,['romance']
+36774,Helicopter Eela,2018,['drama']
+36774,Maal road dilli,2018,['drama']
+36774,FryDay,2018,['comedy']
+36774,Tumbbad,2018,['suspense thriller']
+36774,Namaste England,2018,['romantic comedy']
+36774,Badhaai Ho,2018,['romantic comedy']
+36774,Baazaar,2018,['crime']
+36774,5 Weddings,2018,"['comedy', ' romance', ' drama']"
+36774,Kaashi in Search of Ganga,2018,['suspense thriller']
+36774,Dassehra,2018,['action thriller']
+36774,The Journey of Karma,2018,['erotic thriller']
+36774,Lupt,2018,['horror']
+36774,Jack and Dil,2018,['comedy']
+36774,Mausam Ikrar Ke Do Pal Pyaar Ke,2018,['romantic family drama']
+36774,Thugs of Hindostan,2018,"['period action', 'adventure']"
+36774,Mohalla Assi,2018,['drama']
+36774,Pihu,2018,['thriller']
+36774,Hotel Milan,2018,['comedy']
+36774,Bhaiaji Superhit,2018,"['action', 'comedy']"
+36774,Rajma Chawal,2018,['drama']
+36774,Kedarnath,2018,['drama']
+36774,PK Lele A Salesman,2018,['adult-comedy']
+36774,Zero,2018,"['comedy', 'drama']"
+36774,Simmba,2018,['action comedy']
+36774,Uri: The Surgical Strike,2019,['action']
+36774,Battalion 609,2019,['action']
+36774,The Accidental Prime Minister,2019,['biopic']
+36774,Why Cheat India,2019,['drama']
+36774,Fraud Saiyaan,2019,['comedy']
+36774,Soni,2019,['crime drama']
+36774,72 Hours: Martyr Who Never Died,2019,['biographical drama']
+36774,Bombairiya,2019,['black comedy']
+36774,Rangeela Raja,2019,['comedy']
+36774,The Lift Boy,2019,"['drama', ' coming of age']"
+36774,Thackeray,2019,['biographical']
+36774,Manikarnika: The Queen of Jhansi,2019,['biographical']
+36774,Ek Ladki Ko Dekha Toh Aisa Laga,2019,['romance']
+36774,The Fakir of Venice,2019,['drama']
+36774,Gully Boy,2019,['biopic']
+36774,Hum Chaar,2019,['drama']
+36774,Total Dhamaal,2019,['comedy']
+36774,Luka Chuppi,2019,['romantic comedy']
+36774,Sonchiriya,2019,['crime drama']
+36774,Badla,2019,"['drama ', 'thriller']"
+36774,Hamid,2019,['drama']
+36774,Photograph,2019,['drama']
+36774,Milan Talkies,2019,['drama']
+36774,Mere Pyare Prime Minister,2019,['social drama']
+36774,Kesari,2019,"['drama', 'historical']"
+36774,Mard Ko Dard Nahi Hota,2019,['action comedy']
+36774,Notebook,2019,['drama']
+36774,Junglee,2019,['action']
+36774,Romeo Akbar Walter,2019,['action thriller']
+36774,Albert Pinto Ko Gussa Kyun Aata Hai?,2019,['thriller']
+36774,The Tashkent Files,2019,['thriller']
+36774,Kalank,2019,"['period drama ', ' thriller']"
+36774,Blank,2019,['action thriller']
+36774,Setters,2019,['thriller']
+36774,Student of the Year 2,2019,['romantic comedy']
+36774,De De Pyaar De,2019,['romantic comedy']
+36774,India's Most Wanted,2019,['thriller']
+36774,PM Narendra Modi,2019,['biopic']
+36774,Bharat,2019,['drama']
+36774,Khamoshi,2019,['horror']
+36774,Kabir Singh,2019,['drama']
+36774,Article 15,2019,"['drama', ' thriller']"
+36774,Malaal,2019,['romance']
+36774,One Day: Justice Delivered,2019,['action thriller']
+36774,Hume Tumse Pyaar Kitna,2019,['romantic thriller']
+36774,Super 30,2019,['biopic']
+36774,Family of Thakurganj,2019,['family drama']
+36774,Jhootha Kahin Ka,2019,['comedy']
+36774,Judgementall Hai Kya,2019,"['thriller', ' comedy']"
+36774,Arjun Patiala,2019,['romantic comedy']
+36774,Khandaani Shafakhana,2019,['comedy']
+36774,Jabariya Jodi,2019,['romantic comedy']
+36774,Chicken Curry Law,2019,['drama']
+36774,Pranaam,2019,['action']
+36774,Batla House,2019,['action']
+36774,Mission Mangal,2019,['drama']
+36774,Saaho,2019,['action']
+36774,Chhichhore,2019,['comedy-drama']
+36774,Dream Girl,2019,['comedy']
+36774,Section 375,2019,['crime thriller']
+36774,The Zoya Factor,2019,['drama']
+36774,Pal Pal Dil Ke Paas,2019,"['drama', 'romance']"
+36774,Prassthanam,2019,['drama']
+36774,Jhalki,2019,['drama']
+36774,War,2019,"['action', ' thriller']"
+36774,The Sky Is Pink,2019,['biopic']
+36774,Lootcase,2019,['comedy drama']
+36774,P Se Pyaar F Se Faraar,2019,['drama']
+36774,Laal Kaptaan,2019,['action']
+36774,Yaaram,2019,['romantic drama']
+36774,Housefull 4,2019,['comedy']
+36774,Saand Ki Aankh,2019,['biopic']
+36774,Made In China,2019,['comedy']
+36774,Bypass Road,2019,['horror thriller']
+36774,Marjaavaan,2019,"['action', 'romance']"
+36774,Shikara - A Love Letter from Kashmir,2019,"['historical', 'romance']"
+36774,Bala,2019,['black comedy']
+36774,Pagalpanti,2019,['comedy']
+36774,Dil Bechara,2019,['romantic drama']
+36774,Jawaani Jaaneman,2019,['romantic drama']
+36774,Panipat,2019,"['action', 'battle']"
+36774,"Pati, Patni Aur Woh",2019,['comedy']
+36774,Mardaani 2,2019,['crime thriller']
+36774,Dabangg 3,2019,['action']
+36774,Good News,2019,['comedy']
